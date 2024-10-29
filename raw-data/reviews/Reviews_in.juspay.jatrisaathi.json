@@ -1,11 +1,131 @@
 [
     {
+        "id": "eacae403-402c-4e75-b91c-6f897fde9597",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very low price"
+    },
+    {
+        "id": "dc1149a1-cd47-462e-8a42-2e0c5572813e",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b7a7a042-6736-41cd-940e-f6b151b5ba8f",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d good"
+    },
+    {
+        "id": "a469a461-03b4-4166-9cf6-e5a890ce8057",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "8633b0b0-2585-476c-8ee2-dbee44284e2d",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Everything perfect."
+    },
+    {
+        "id": "7e05bc05-6720-4268-8ae5-5d4d4190d7d8",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "7a1c790c-0b13-4bc9-bee8-f1c22e738f80",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "better from ola uber and Indrive"
+    },
+    {
+        "id": "75dbe49a-8cfe-4b5f-8742-44bf0442a61b",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": ",\ud83e\udd70\ud83e\udd70\ud83e\udd70"
+    },
+    {
+        "id": "4101f51d-2bf6-4713-9f65-d7a2cdc2d9d1",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good Service"
+    },
+    {
+        "id": "3fe6ef3d-9929-4bf8-905f-eb7ae3ca73d1",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good\ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "13a3122b-54ac-421b-abc0-df16a1853135",
+        "date": "2024-10-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The cab service needs a lot and a lot of updation. Clear instructions and guidance is not provided while booking also it is impossible to take a ride without any problem. More about the problem the driver asked me to cancel the booking and took extra money infront of the help centre, after the ride giving unreasonable excuses and an explicit attitude. Unacceptable behaviour. If it was not important I would never have taken the ride. Need a better management system for sure!!!!!!!!!"
+    },
+    {
+        "id": "0e395260-6e3c-488c-9fce-1e44f2e0f77e",
+        "date": "2024-10-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good app and helpful also"
+    },
+    {
+        "id": "0d3d6740-ed44-4e05-9651-0459855be6de",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent."
+    },
+    {
+        "id": "01ebeed7-39f5-4edc-8a41-228e820e5dde",
+        "date": "2024-10-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Zero star. Takes 130\u20b9 for moving 30m. Multiple times this took place. Never ride. Unsafe."
+    },
+    {
         "id": "e265ed40-0dd1-4d37-ba2d-52c1fb0e739b",
         "date": "2024-10-27",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "everything in it was excellent"
+    },
+    {
+        "id": "e1a3e6f3-4bab-4dac-afc8-7e4d8a3a2f53",
+        "date": "2024-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great"
     },
     {
         "id": "ccf9fa99-d39f-4aab-9612-0ae5d0eaa9b4",
@@ -54,6 +174,14 @@
         "scoreText": "5",
         "title": null,
         "text": "very good price"
+    },
+    {
+        "id": "74800fa8-631e-4529-80f1-44991ce77148",
+        "date": "2024-10-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good experience Ride"
     },
     {
         "id": "7337e5c6-dbda-4886-b869-532f974d23f2",
