@@ -21,6 +21,12 @@
                 "type": "Location"
             },
             {
+                "data": "App interactions",
+                "optional": false,
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
+            },
+            {
                 "data": "User IDs",
                 "optional": false,
                 "purpose": "App functionality, Analytics",
@@ -37,12 +43,6 @@
                 "optional": false,
                 "purpose": "App functionality, Account management",
                 "type": "Personal info"
-            },
-            {
-                "data": "App interactions",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
             },
             {
                 "data": "Crash logs",
