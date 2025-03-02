@@ -22,6 +22,12 @@
                 "type": "Messages"
             },
             {
+                "data": "Files and docs",
+                "optional": true,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
+            },
+            {
                 "data": "Name",
                 "optional": false,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
@@ -40,16 +46,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "Calendar events",
+                "data": "Contacts",
                 "optional": true,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
-            },
-            {
-                "data": "Files and docs",
-                "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
             },
             {
                 "data": "Device or other IDs",
@@ -58,10 +58,10 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "Contacts",
+                "data": "Calendar events",
                 "optional": true,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
             }
         ],
         "securityPractices": [
