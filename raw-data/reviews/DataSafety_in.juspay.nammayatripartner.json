@@ -26,6 +26,54 @@
                 "type": "Personal info"
             },
             {
+                "data": "Emails",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Messages"
+            },
+            {
+                "data": "SMS or MMS",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Messages"
+            },
+            {
+                "data": "Files and docs",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
+            },
+            {
+                "data": "Approximate location",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Location"
+            },
+            {
+                "data": "Precise location",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Location"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Device or other IDs"
+            },
+            {
+                "data": "Calendar events",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Calendar"
+            },
+            {
+                "data": "Photos",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Photos and videos"
+            },
+            {
                 "data": "Crash logs",
                 "optional": false,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
@@ -42,54 +90,6 @@
                 "optional": false,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
                 "type": "App info and performance"
-            },
-            {
-                "data": "Files and docs",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
-            },
-            {
-                "data": "Photos",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Photos and videos"
-            },
-            {
-                "data": "Device or other IDs",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Device or other IDs"
-            },
-            {
-                "data": "Approximate location",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Location"
-            },
-            {
-                "data": "Precise location",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Location"
-            },
-            {
-                "data": "Calendar events",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Calendar"
-            },
-            {
-                "data": "Emails",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Messages"
-            },
-            {
-                "data": "SMS or MMS",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Messages"
             }
         ],
         "collectedData": [
@@ -130,10 +130,46 @@
                 "type": "Personal info"
             },
             {
+                "data": "Files and docs",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Files and docs"
+            },
+            {
+                "data": "Approximate location",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Location"
+            },
+            {
+                "data": "Precise location",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Location"
+            },
+            {
                 "data": "Contacts",
                 "optional": true,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
                 "type": "Contacts"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": true,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Device or other IDs"
+            },
+            {
+                "data": "Calendar events",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Calendar"
+            },
+            {
+                "data": "Photos",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Photos and videos"
             },
             {
                 "data": "Crash logs",
@@ -154,46 +190,10 @@
                 "type": "App info and performance"
             },
             {
-                "data": "Files and docs",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Files and docs"
-            },
-            {
-                "data": "Photos",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Photos and videos"
-            },
-            {
-                "data": "Device or other IDs",
-                "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Device or other IDs"
-            },
-            {
                 "data": "User payment info",
                 "optional": false,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
                 "type": "Financial info"
-            },
-            {
-                "data": "Approximate location",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Location"
-            },
-            {
-                "data": "Precise location",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Location"
-            },
-            {
-                "data": "Calendar events",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Calendar"
             }
         ],
         "securityPractices": [
