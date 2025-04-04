@@ -3,58 +3,58 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "App interactions",
-                "optional": false,
+                "data": "Device or other IDs",
+                "optional": 0,
                 "purpose": "App functionality, Analytics",
-                "type": "App activity"
-            },
-            {
-                "data": "User IDs",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
-                "optional": true,
-                "purpose": "App functionality",
-                "type": "Personal info"
-            },
-            {
-                "data": "Phone number",
-                "optional": false,
-                "purpose": "App functionality, Account management",
-                "type": "Personal info"
+                "type": "Device or other IDs"
             },
             {
                 "data": "Crash logs",
-                "optional": false,
+                "optional": 0,
                 "purpose": "Analytics",
                 "type": "App info and performance"
             },
             {
                 "data": "Diagnostics",
-                "optional": false,
+                "optional": 0,
                 "purpose": "Analytics",
                 "type": "App info and performance"
             },
             {
+                "data": "User IDs",
+                "optional": 0,
+                "purpose": "App functionality, Analytics",
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Personal info"
+            },
+            {
+                "data": "Phone number",
+                "optional": 0,
+                "purpose": "App functionality, Account management",
+                "type": "Personal info"
+            },
+            {
                 "data": "Approximate location",
-                "optional": true,
+                "optional": 1,
                 "purpose": "App functionality, Analytics",
                 "type": "Location"
             },
             {
                 "data": "Precise location",
-                "optional": true,
+                "optional": 1,
                 "purpose": "App functionality, Analytics",
                 "type": "Location"
             },
             {
-                "data": "Device or other IDs",
-                "optional": false,
+                "data": "App interactions",
+                "optional": 0,
                 "purpose": "App functionality, Analytics",
-                "type": "Device or other IDs"
+                "type": "App activity"
             }
         ],
         "securityPractices": [
