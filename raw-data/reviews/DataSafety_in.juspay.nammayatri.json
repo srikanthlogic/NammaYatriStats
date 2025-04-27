@@ -16,6 +16,12 @@
                 "type": "Contacts"
             },
             {
+                "data": "Calendar events",
+                "optional": 1,
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
+            },
+            {
                 "data": "Emails",
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
@@ -56,12 +62,6 @@
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
                 "type": "Device or other IDs"
-            },
-            {
-                "data": "Calendar events",
-                "optional": 1,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
             }
         ],
         "securityPractices": [
