@@ -10,10 +10,10 @@
         ],
         "collectedData": [
             {
-                "data": "Files and docs",
+                "data": "Contacts",
                 "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
             },
             {
                 "data": "Calendar events",
@@ -22,10 +22,10 @@
                 "type": "Calendar"
             },
             {
-                "data": "Contacts",
+                "data": "Files and docs",
                 "optional": 1,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
             },
             {
                 "data": "Emails",
