@@ -15,6 +15,12 @@
                 "type": "App info and performance"
             },
             {
+                "data": "App interactions",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
+            },
+            {
                 "data": "User IDs",
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Personalization, Account management",
@@ -31,12 +37,6 @@
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications",
                 "type": "Device or other IDs"
-            },
-            {
-                "data": "App interactions",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
             }
         ],
         "securityPractices": [
