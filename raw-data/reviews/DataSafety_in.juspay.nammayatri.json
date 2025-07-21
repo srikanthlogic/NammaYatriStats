@@ -16,10 +16,16 @@
                 "type": "Contacts"
             },
             {
-                "data": "Files and docs",
+                "data": "Emails",
                 "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Messages"
+            },
+            {
+                "data": "SMS or MMS",
+                "optional": 1,
+                "purpose": "App functionality, Account management",
+                "type": "Messages"
             },
             {
                 "data": "Device or other IDs",
@@ -28,10 +34,10 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "Calendar events",
+                "data": "Files and docs",
                 "optional": 1,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
             },
             {
                 "data": "Name",
@@ -52,16 +58,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "Emails",
+                "data": "Calendar events",
                 "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Messages"
-            },
-            {
-                "data": "SMS or MMS",
-                "optional": 1,
-                "purpose": "App functionality, Account management",
-                "type": "Messages"
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
             }
         ],
         "securityPractices": [
