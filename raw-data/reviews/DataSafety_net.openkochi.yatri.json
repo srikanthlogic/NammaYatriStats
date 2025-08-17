@@ -3,6 +3,18 @@
         "sharedData": [],
         "collectedData": [
             {
+                "data": "Approximate location",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
+            },
+            {
+                "data": "Precise location",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
+            },
+            {
                 "data": "Crash logs",
                 "optional": 0,
                 "purpose": "Analytics",
@@ -15,16 +27,10 @@
                 "type": "App info and performance"
             },
             {
-                "data": "Approximate location",
-                "optional": 1,
+                "data": "Device or other IDs",
+                "optional": 0,
                 "purpose": "App functionality, Analytics",
-                "type": "Location"
-            },
-            {
-                "data": "Precise location",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
+                "type": "Device or other IDs"
             },
             {
                 "data": "User IDs",
@@ -43,12 +49,6 @@
                 "optional": 0,
                 "purpose": "App functionality, Account management",
                 "type": "Personal info"
-            },
-            {
-                "data": "Device or other IDs",
-                "optional": 0,
-                "purpose": "App functionality, Analytics",
-                "type": "Device or other IDs"
             },
             {
                 "data": "App interactions",
