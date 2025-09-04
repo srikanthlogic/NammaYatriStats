@@ -3,22 +3,22 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "App interactions",
+                "data": "User IDs",
                 "optional": 0,
                 "purpose": "App functionality, Analytics",
-                "type": "App activity"
+                "type": "Personal info"
             },
             {
-                "data": "Approximate location",
+                "data": "Address",
                 "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
+                "purpose": "App functionality",
+                "type": "Personal info"
             },
             {
-                "data": "Precise location",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
+                "data": "Phone number",
+                "optional": 0,
+                "purpose": "App functionality, Account management",
+                "type": "Personal info"
             },
             {
                 "data": "Device or other IDs",
@@ -39,22 +39,22 @@
                 "type": "App info and performance"
             },
             {
-                "data": "User IDs",
+                "data": "App interactions",
                 "optional": 0,
                 "purpose": "App functionality, Analytics",
-                "type": "Personal info"
+                "type": "App activity"
             },
             {
-                "data": "Address",
+                "data": "Approximate location",
                 "optional": 1,
-                "purpose": "App functionality",
-                "type": "Personal info"
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
             },
             {
-                "data": "Phone number",
-                "optional": 0,
-                "purpose": "App functionality, Account management",
-                "type": "Personal info"
+                "data": "Precise location",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
             }
         ],
         "securityPractices": [
