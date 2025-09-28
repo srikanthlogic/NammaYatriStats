@@ -14,25 +14,19 @@
                 "type": "Location"
             },
             {
-                "data": "Files and docs",
-                "optional": 0,
-                "purpose": "App functionality",
-                "type": "Files and docs"
-            },
-            {
                 "data": "Phone number",
                 "optional": 0,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
                 "type": "Personal info"
+            },
+            {
+                "data": "Files and docs",
+                "optional": 0,
+                "purpose": "App functionality",
+                "type": "Files and docs"
             }
         ],
         "collectedData": [
-            {
-                "data": "Files and docs",
-                "optional": 1,
-                "purpose": "App functionality, Developer communications",
-                "type": "Files and docs"
-            },
             {
                 "data": "Contacts",
                 "optional": 1,
@@ -74,6 +68,12 @@
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
                 "type": "Personal info"
+            },
+            {
+                "data": "Files and docs",
+                "optional": 1,
+                "purpose": "App functionality, Developer communications",
+                "type": "Files and docs"
             }
         ],
         "securityPractices": [
