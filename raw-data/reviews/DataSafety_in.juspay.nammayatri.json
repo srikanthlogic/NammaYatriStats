@@ -2,12 +2,6 @@
     "results": {
         "sharedData": [
             {
-                "data": "Phone number",
-                "optional": 0,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
                 "data": "Approximate location",
                 "optional": 0,
                 "purpose": "Analytics",
@@ -20,6 +14,12 @@
                 "type": "Location"
             },
             {
+                "data": "Phone number",
+                "optional": 0,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
                 "data": "Files and docs",
                 "optional": 0,
                 "purpose": "App functionality",
@@ -27,6 +27,18 @@
             }
         ],
         "collectedData": [
+            {
+                "data": "Device or other IDs",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Device or other IDs"
+            },
+            {
+                "data": "Contacts",
+                "optional": 1,
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
+            },
             {
                 "data": "Emails",
                 "optional": 1,
@@ -64,22 +76,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "Device or other IDs",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Device or other IDs"
-            },
-            {
                 "data": "Files and docs",
                 "optional": 1,
                 "purpose": "App functionality, Developer communications",
                 "type": "Files and docs"
-            },
-            {
-                "data": "Contacts",
-                "optional": 1,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
             }
         ],
         "securityPractices": [
