@@ -1,5 +1,115 @@
 [
     {
+        "id": "fcbb7566-2519-4f13-aa98-c577ed15d15d",
+        "date": "2025-10-13",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "please advice drivers to take charged asking too much extra charges."
+    },
+    {
+        "id": "dc924460-fde6-4af9-9c47-741232a894eb",
+        "date": "2025-10-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "dabf92fb-9c44-490e-b1e0-f7f887505cfb",
+        "date": "2025-10-13",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "slow"
+    },
+    {
+        "id": "9446a83c-ae7e-48e4-a3ea-352fd7878b57",
+        "date": "2025-10-13",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "very low ride confirmation rate than rapido and uber, very un-trustworthy at times of emergency",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "70a12150-855a-485a-b716-735887c630f5",
+        "date": "2025-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Group of chapri drivers here, every time you book AC, they'll just turn it on and off at blower level 1 and you'll be sweating like hell at the back. Even after complaints, the management don't take action against these drivers. Chapri Yatri should be the name of the app.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "6fe8fbc2-39bb-4f0c-9eec-60c58b2a4907",
+        "date": "2025-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "67c201e6-2ce3-4dbe-9be4-1f4f3bd1a37b",
+        "date": "2025-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Cheating App \u2013 Be Careful! I booked a cab under the 5-hour rental plan. My trip ended early \u2014 I used the cab for only 2 hours and 23 km. But Namma Yatri still charged me for the full 5 hours and 50 km, which is totally unfair! Other local taxi apps only charge for the actual time and distance used, but here you get billed for the entire rental duration even if you end it early. This is misleading pricing and not customer-friendly at all. Please check your rental terms carefully before booking"
+    },
+    {
+        "id": "569cf598-2913-42f4-923d-17629258f399",
+        "date": "2025-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Driver is good behavior person \ud83d\udc4c"
+    },
+    {
+        "id": "4ba6f488-2636-4ea4-ae91-342641f02809",
+        "date": "2025-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Advertisement is required. Not many knows that there is an app like this. Second, App need an improvement in update. third, 89% areas frequency of getting is low. These are areas to improve. appreciate your drivers are not demanding extra payment like others. All the best!"
+    },
+    {
+        "id": "4b6a536e-e792-4189-8b56-490ab1ff5063",
+        "date": "2025-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "never ever driver accepted my ride or driver will be assigned but he will cancel \u274c",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "47d00c8e-2b5c-45bc-9a24-fdf4cbeae7e6",
+        "date": "2025-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "extra charges applied without any reason ...."
+    },
+    {
+        "id": "22bcc52d-f2f6-4fed-a934-9a1f0970967a",
+        "date": "2025-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great"
+    },
+    {
+        "id": "0168b147-83a6-413c-90a8-38c9498c9ac6",
+        "date": "2025-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83e\udd70"
+    },
+    {
         "id": "ceca8cb9-02fd-4967-bcc5-77ee4ed22b33",
         "date": "2025-10-12",
         "score": 4,
@@ -24,6 +134,14 @@
         "scoreText": "5",
         "title": null,
         "text": "very good"
+    },
+    {
+        "id": "9d109749-4aea-4e54-9c65-eb5ca4faba9d",
+        "date": "2025-10-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The prize is too high compared to uber. I booked uber at the same time The amount is 104 whereas namma yatra is 166 rupees. such a big amount difference."
     },
     {
         "id": "7bfeff79-c2e8-4f6f-ba00-ded3623e9893",
