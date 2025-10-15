@@ -1,5 +1,152 @@
 [
     {
+        "id": "e0fefa89-b83c-41b1-bb59-e5d52b9349c5",
+        "date": "2025-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This is a horrible cash grab app. The ranges are a joke, you always pay maximum. Save yourself trouble and install Rapido instead.",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_useful_notifications": 2,
+        "vaf_never_display_app_description": 2
+    },
+    {
+        "id": "d70e9958-09b2-4e61-bbfa-6a8fd853fceb",
+        "date": "2025-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "unable to screenshot which is very unclear and unable to send the proofs of travel timing and amount showing i totally believe this is kind of malpractices"
+    },
+    {
+        "id": "d0cd514e-00d7-4f3a-9dcb-2162f60f742f",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service with reasonable rate"
+    },
+    {
+        "id": "c990d937-17ab-4056-af88-5bf6f874b7f8",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "c42c786e-7876-42ba-9e19-7d6fa08a6326",
+        "date": "2025-10-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "namma yatri is good app go to or it \ud83d\ude0a"
+    },
+    {
+        "id": "ab1081cf-daba-412d-a4ec-c4e09d1659d8",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good driver"
+    },
+    {
+        "id": "9c53d97e-1451-49f2-9a4b-23187ec64906",
+        "date": "2025-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "waiting time is too long, drivers wont accept raids and also from mahadevpura to vijayanagara they show outer ring road which shows 31 km whereas if you come inside city it is only 17 km they consider outer ring road distance and charge. it is one of the worst serivice provider which i seen in Bangalore."
+    },
+    {
+        "id": "996b9a32-da04-4e7f-bba8-4d64b53542a7",
+        "date": "2025-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Pathetic"
+    },
+    {
+        "id": "984354e4-bec8-4268-a2c5-ed9739b4c198",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6fd75445-e44a-4ae7-b3fe-d83b33af6a2a",
+        "date": "2025-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst App Auto Driver doesn't take ride if they take then they cancel pathetic"
+    },
+    {
+        "id": "69ec68e8-88f0-4553-ba36-12b377335ee4",
+        "date": "2025-10-14",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "the app doesn't work properly. whenever I book it says cannot get details of your last ride"
+    },
+    {
+        "id": "651201f5-0ad0-46e0-934b-ca8d19a97ba3",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5d471269-98ac-4fe8-b1d8-a666ab7d9828",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "575a68d9-259d-45b7-83f9-aa754f34687a",
+        "date": "2025-10-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Truly reliable cab/auto service that I have come across. Drivers don't demand extra. The only concern is their GPS. it doesn't update fast leaving the guest to wonder if the vehicle is moving or not."
+    },
+    {
+        "id": "4eb8531d-f6e9-4b48-bb92-00cbaf3c6349",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super sssss"
+    },
+    {
+        "id": "297ac160-2ad9-46ba-a002-4ec8dc24ae11",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "first experience was good \ud83d\udc4d"
+    },
+    {
+        "id": "215d2406-2d2b-46af-8820-633692e059e3",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome"
+    },
+    {
+        "id": "03f75ed8-827b-482a-8e02-b7a1186a1f1e",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "fcbb7566-2519-4f13-aa98-c577ed15d15d",
         "date": "2025-10-13",
         "score": 3,
@@ -100,6 +247,14 @@
         "scoreText": "5",
         "title": null,
         "text": "great"
+    },
+    {
+        "id": "2141f2ae-5fca-42be-8712-56e94f8ceb62",
+        "date": "2025-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "exllentt"
     },
     {
         "id": "0168b147-83a6-413c-90a8-38c9498c9ac6",
