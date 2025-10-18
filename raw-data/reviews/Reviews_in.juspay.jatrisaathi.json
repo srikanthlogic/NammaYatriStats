@@ -1,5 +1,69 @@
 [
     {
+        "id": "dcc96060-f8cd-4019-9c65-4b1d27861e6d",
+        "date": "2025-10-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c74f585d-1c6f-4d5f-9b2d-6aaaee0e180e",
+        "date": "2025-10-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Thank you"
+    },
+    {
+        "id": "a12703c8-7a46-4f23-ba3e-5427a190dcab",
+        "date": "2025-10-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "verry good \ud83d\udc4d"
+    },
+    {
+        "id": "9c85964e-7dc1-4a85-8f9c-51aa4699070c",
+        "date": "2025-10-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "8f90f37f-110f-4ae9-b50a-8c72236363de",
+        "date": "2025-10-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent \ud83d\udc4c"
+    },
+    {
+        "id": "796cf093-5979-416e-b9fd-42679b99bb5b",
+        "date": "2025-10-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "better than ola n uber"
+    },
+    {
+        "id": "6daeba58-17dd-4356-837a-4b6f8c41e289",
+        "date": "2025-10-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Don't book bus tickets using this app. Huge scam. QR code does not work on ticketing machine."
+    },
+    {
+        "id": "54f90b7e-9ec7-408f-9f4b-f892681e155c",
+        "date": "2025-10-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
         "id": "fa85b4c9-9bdd-4a84-8318-3ad36e7ecf5f",
         "date": "2025-10-16",
         "score": 5,
@@ -30,6 +94,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Excellent driving experienced"
+    },
+    {
+        "id": "9b0545f7-0123-4efd-8619-d5676d7df591",
+        "date": "2025-10-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best online cab app in India."
     },
     {
         "id": "99814c9a-65f1-4c09-90a6-4d1cc2b197f1",
