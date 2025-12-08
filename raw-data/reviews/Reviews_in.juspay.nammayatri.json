@@ -1,5 +1,331 @@
 [
     {
+        "id": "fedd6b29-9eca-44a7-8d3f-06aaa612a68f",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Vry good service."
+    },
+    {
+        "id": "e8ce1eff-b97a-4f50-83b9-b2c0a69a76c3",
+        "date": "2025-12-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "dabfde3e-2f05-407c-94e1-fe91f6cbf9cc",
+        "date": "2025-12-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not working app no booking"
+    },
+    {
+        "id": "c223ffc3-df81-4ce0-b6fd-aa66db44bb0e",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "namma yatri is very good app and helpful in emergency"
+    },
+    {
+        "id": "aa40a73b-e037-46e3-b233-25a2de81d924",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "a7c48593-fb67-4d9c-a9cb-8e7279cf19db",
+        "date": "2025-12-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Fix the issue of \"please describe your issue in detail\" even after uploading the payment screenshot and explaining the entire issue on detail in the Help and Support section."
+    },
+    {
+        "id": "95b59db0-c2c5-4967-be69-3330f3efc48d",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u2764\ufe0f helpfull"
+    },
+    {
+        "id": "82be7d17-7500-42c5-8c48-02d18ad39315",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "75f878d3-c259-47ae-a4e3-16acd2e282e4",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "driver Md zaheer sir to good \ud83d\udc4d"
+    },
+    {
+        "id": "68fc3645-c6a9-478a-8a14-aa4e1ba934df",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "5314eb98-5e3d-43da-a925-7f6dcdc21f1b",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "517c1f81-5a84-408f-af74-0cebd3cd4395",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This is my first time using 'Namma Yatri' app. It is very easy, low cost and provides very fast service. It has a good connectivity system and is also easy to use."
+    },
+    {
+        "id": "511c6374-2ad7-45b0-be5d-88f1b7bc3bdd",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "for. the. less. rate. the. auto driver is canceling. the. booking. of. customer",
+        "vaf_never_display_spend_more_time": 2,
+        "vaf_never_display_app_description": 2,
+        "vaf_never_display_disruptive_ads": 1
+    },
+    {
+        "id": "4863f838-d243-4ec4-a3e2-e0b8df2543e6",
+        "date": "2025-12-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "1abf3e37-dba6-4f8f-a607-2fb4985510ad",
+        "date": "2025-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good App"
+    },
+    {
+        "id": "ee875c6d-715e-46d9-8522-1fddf4aa1fe3",
+        "date": "2025-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "d7ec8016-36a4-46e9-851a-a1cc4681b704",
+        "date": "2025-12-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Enjoy Safe and Best Commutes through Namma Yatri in Namma Bengaluru"
+    },
+    {
+        "id": "d62bb510-5fc6-4360-bcc1-b6ca8b03d063",
+        "date": "2025-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driver thanks you"
+    },
+    {
+        "id": "cf66ad52-3947-443f-b4e2-703ae8d4d607",
+        "date": "2025-12-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "As I'm using this app for a while, UMESH K T (Auto driver) has taken extra money than the allotted price and when asked to repay back extra money refused to do it and told that you people \"NAMMA YATRI\" will charge extra and cut the balance from their account as GST charges and hourly chargers. what a shame on the company . how can you charge extra and why do you recruit such dishonest people! even 1 rupee has value. that driver condemned me about me buying a hou and all with extra money. Cheap!"
+    },
+    {
+        "id": "5d867c2c-71b4-4527-b8b3-0fcd74f90d11",
+        "date": "2025-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "585ac518-1b6b-4905-aae3-53dd4efe7e19",
+        "date": "2025-12-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "most miserable experience. I booked a premium cab today. But I got third class car which was not safe at all. and the behaviour of the driver was very bad. He dropped me 1 km away from my destination. There was patient(my grandpa) in the car and I was traveling to hospital but then also he didn't shown any mercy. The destination was showing in my namma yatri app but he refused and behaved very rude. I was with my family so I had to be quite otherwise I would have done police complaint.",
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "53538be9-ac0c-411f-882a-29a4f102752f",
+        "date": "2025-12-06",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "There seems to be a problem with the app detecting my location of late.... due to which rides were cancelled"
+    },
+    {
+        "id": "43eb3209-a278-43a0-b166-2a9dc33e4330",
+        "date": "2025-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "226c260b-cc19-401f-9aed-6629ea21cf6c",
+        "date": "2025-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "19f09f5a-f37f-4db4-a0e2-7777492b990f",
+        "date": "2025-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "gud"
+    },
+    {
+        "id": "1954e2e8-2872-4a96-99a1-4be9fe22dcb7",
+        "date": "2025-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "17931eeb-25e3-4d73-a980-449dd07ff98d",
+        "date": "2025-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "not bad just ok"
+    },
+    {
+        "id": "08cbffcf-d297-4568-aac9-cb9d45b93966",
+        "date": "2025-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d\ud83c\udffb excellent driver \u2728"
+    },
+    {
+        "id": "b947d816-150c-477a-bf59-ce06fbe3d790",
+        "date": "2025-12-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app"
+    },
+    {
+        "id": "9671a272-8670-43d7-8d40-9d2cb96ee6d9",
+        "date": "2025-12-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super and good"
+    },
+    {
+        "id": "734ffc4c-6849-48cb-8a3b-c81270010a34",
+        "date": "2025-12-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "63d157f5-ee22-4ab1-ae4f-5e3f0352191c",
+        "date": "2025-12-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you so much namma yatri"
+    },
+    {
+        "id": "5f9a1959-fd6a-4aed-9913-0bdbe9a07cbe",
+        "date": "2025-12-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "some time drivers or not attending the calls otherwise good"
+    },
+    {
+        "id": "5e759701-34a4-4675-8109-86c7ae6e6198",
+        "date": "2025-12-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "4f133d55-eb1f-4d51-8698-3e4f268b2d24",
+        "date": "2025-12-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "suggestion. If possible introduce motor cycle transport for physically challenged person. (eg-ride from scooter or scooty) which is easy for physically challenged person like me.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "2fd13ccb-2e10-47f2-8824-73da7e4bcbad",
+        "date": "2025-12-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The app starts waiting time even before the driver reaches pick up and charges additional fare for waiting time, as the we have to wait for driver to reach the pick up point. I tried reaching out to customer service several times. But The customer support is really very bad. The app literally has no options to report any issue other than those they have in their list."
+    },
+    {
+        "id": "2b1f0e06-2c10-419d-ba65-f33eeb2bd6c1",
+        "date": "2025-12-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good and safe...."
+    },
+    {
+        "id": "19f83c53-3376-4dfd-a8c0-662c46d0f2d6",
+        "date": "2025-12-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "only good for autos, the cabs smell so bad, I almost puked in one cab because of the smell"
+    },
+    {
+        "id": "118d44e4-4e30-4f38-a79b-11d7169d597f",
+        "date": "2025-12-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's very helpfull for customers and funds also good \ud83d\udc4d"
+    },
+    {
+        "id": "115fa15c-2dde-45a2-acfc-bf3ce96d6815",
+        "date": "2025-12-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
         "id": "ed7e3d54-f2bf-4996-8fc8-e310f3506d06",
         "date": "2025-12-04",
         "score": 3,
