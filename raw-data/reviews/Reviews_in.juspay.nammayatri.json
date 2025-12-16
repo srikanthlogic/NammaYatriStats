@@ -1,5 +1,775 @@
 [
     {
+        "id": "f2e650fa-18ad-4169-ac4c-815d8fa62a83",
+        "date": "2025-12-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "de1d5ca5-dcdb-43e3-868e-7383db475658",
+        "date": "2025-12-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app. driver's almost ask double price for Mysore and bangalore drops. simply they accept ride waste customer time. cancel option resons also not there to complaint drivers"
+    },
+    {
+        "id": "d2cefcb8-d365-499e-919f-e683104ba5bd",
+        "date": "2025-12-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "removed the trust quote from the app and now showing the amount like 170-200 in normal time"
+    },
+    {
+        "id": "c5ccddb4-8ff4-4ee8-9021-acca97d6bb1a",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "ac922a20-12d7-4b52-b189-1ec90467dea9",
+        "date": "2025-12-15",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "rate is higher than ola rate"
+    },
+    {
+        "id": "84f988a3-1b78-4ea7-bd8f-17c3c9261d41",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super ride"
+    },
+    {
+        "id": "6d4fa749-f565-4c62-8519-f2439dbe7817",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service. keep it up."
+    },
+    {
+        "id": "4d8fcad1-df50-46e2-8a66-a8b186ed347b",
+        "date": "2025-12-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "rides are loading from 2 days but not showing rides."
+    },
+    {
+        "id": "47cf9ae2-d8cd-4b3f-a379-406d52d12b2e",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fair price"
+    },
+    {
+        "id": "45ab8d5a-bf3b-49f4-be3a-db86eca9608b",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very very so nice"
+    },
+    {
+        "id": "3e1f00b3-a9de-433f-84a6-d46caabcc7e0",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "helpful"
+    },
+    {
+        "id": "39d1f3be-8926-461a-bd72-7acd65e23433",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very Best app good service no 1 app in india"
+    },
+    {
+        "id": "34bd5c0d-f9d1-4480-8721-9eba02f93371",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "21d57f33-bd95-42ab-b1b8-a5415e379962",
+        "date": "2025-12-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "drivers scam"
+    },
+    {
+        "id": "20e1a005-be17-4228-9033-4fbf21913afa",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "1f5c36f2-bf24-4d04-a337-236ad39b18f4",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e04874a4-23ae-478b-9e45-959fb3aecf5d",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "d3f02bd1-0a58-48bd-8ad7-4ff7c99a3b8f",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good drive"
+    },
+    {
+        "id": "ce1dde75-4252-4237-80da-e9e46efdffa4",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "c52db60f-1db9-4f98-8b68-28cfa01347a1",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good person \ud83d\ude0a"
+    },
+    {
+        "id": "c1f0e655-7f38-4a7c-a3cc-f8e37e1c5954",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b9af371c-a118-4f7d-b025-99ed2c12f281",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service providers with safe ride with right fair thank you",
+        "vaf_never_display_spend_more_time": 2,
+        "vaf_never_display_difficult_to_use": 2,
+        "vaf_never_display_visually_bad": 2
+    },
+    {
+        "id": "ad1162ec-60a3-476d-996b-a0b7f117d17a",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a5316984-0e82-4da1-9dd8-6e197058e427",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "a191cbd0-a28f-4d0e-94e1-85c893ad0b8d",
+        "date": "2025-12-14",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "The only good thing about this app is that drivers don't demand extra. The upfront fare is higher than what Uber or Ola may quote, but I hate the haggling that those drivers do by calling you and not moving towards you until the price is finalised. None of that happens here. However, the app is not as mature as both of them. The GPS positioning is always off a quite a bit and drivers ends up reaching the next street even though the location on your side is correct.",
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "6203f9ff-5ec0-412d-8d63-3dbdcaaf1c71",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "40380639-f451-45f2-bd27-2ca9cb9b69a0",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good on-time"
+    },
+    {
+        "id": "3aae399f-f1b9-4131-af6a-2e3b2b86f688",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ff8d485f-4007-41e0-a1b9-2929f9c49298",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ed0d0470-28da-4cd6-a06a-eca80f5a9a85",
+        "date": "2025-12-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good \ud83d\ude0a\ud83d\udc4d"
+    },
+    {
+        "id": "dd20af22-42be-4eec-8b56-4890a8a37731",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "d839e06c-6575-444d-b12a-58b24886a511",
+        "date": "2025-12-13",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "it's cheated,when I booked it's shown me 65 rupees when reached on my place it's showing 80 rupees \ud83d\ude21"
+    },
+    {
+        "id": "d3548cde-6149-4469-a95a-40b13725faa0",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "c615f5c7-1016-4dfc-8d03-731d01524688",
+        "date": "2025-12-13",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "While the application is useful, there's a serious flaw in how waiting time is calculated. I've noticed drivers start the waiting time counter when they are still 5-10 minutes away from the pickup location. This misuse of the system forces customers to pay an unwarranted extra fee. This loophole needs to be closed to ensure fair billing."
+    },
+    {
+        "id": "b9bff70a-7d7a-499f-9daa-8b7f1cc2375a",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0ca8\u0cc8\u0cb8\u0ccd \u0ca1\u0ccd\u0cb0\u0cc8\u0cb5\u0cbf\u0c82\u0c97\u0ccd"
+    },
+    {
+        "id": "ae0d5a96-2a37-430a-a7ee-3a1c1a87ef16",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "He was a good driver"
+    },
+    {
+        "id": "a95df997-3d83-4bd2-be94-612844b424bd",
+        "date": "2025-12-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Routinely charged toll when toll roads not taken. Impossible to get support; tickets closed without any discussion or communication, forget about resolution.",
+        "vaf_never_display_meet_expectations": 2,
+        "vaf_never_display_visually_good": 2,
+        "vaf_never_display_negative_ads_impact": 3
+    },
+    {
+        "id": "92c0cddb-7bce-43ba-9759-e6874c1c3f11",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "888a4e46-e552-47e9-b610-d326cb9fbc6f",
+        "date": "2025-12-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "5a4cd00e-c3b1-4441-a6db-55db2b9e7403",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Always on-time pickups and reasonable fare trip charges."
+    },
+    {
+        "id": "37df10c5-9be5-4175-b8f5-443ccf5c1ffe",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Reliable"
+    },
+    {
+        "id": "2fdc2dc6-5eb6-43c3-9e7a-004415ea2313",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "2ee79e58-d9f4-4e4b-9c18-7b936ef05a7b",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "2ed60a66-73ec-4070-9910-2a7461b35067",
+        "date": "2025-12-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad experience faced \ud83d\ude15 on ride today. I was behind the auto and waiting for the driver as he was turning the auto. mean time 2 ppl were coming and they have asked whether he can take them to drop. he immediately cancelled my ride and he took them to drop. He didn't eve care for me and showe some attitude as supposed to reach the office and login on time. as usually drivers won't accept the ride during weekends and they demand for more money. even after adding a tip he cancelled the ride."
+    },
+    {
+        "id": "14002235-37c6-4ac6-8e84-d9be57f39697",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "e1948e9b-3190-42d5-8681-54c43707ff1f",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "value for money"
+    },
+    {
+        "id": "d22ff67d-471c-45ad-af37-192c87308798",
+        "date": "2025-12-12",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "the app has no feedback on user interaction.. I don't understand this at all. I click on the refresh button, there is no change not even a scale down to at least show that it was clicked. your yellow metro line timing is off by a lot. maybe don't show \"live\" if it was not even real in the first place. maybe you need to have a serious talk with both your ui dev and the backend guy. also nobody calls it \"source\" destination .. is it so bad to use everyday common terms like \"from\" \"to\" ?"
+    },
+    {
+        "id": "c072ef09-839d-4b85-bc29-bdfe5811165d",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fare prices,safe rides,simply awesome\ud83d\udc4c"
+    },
+    {
+        "id": "b7969bb7-dd5f-47d3-9d0b-778d4f50da36",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good and fast service thanks for namma yathri"
+    },
+    {
+        "id": "a87bb6eb-66ac-4800-8ab3-8b247ba9f811",
+        "date": "2025-12-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Very nice"
+    },
+    {
+        "id": "a865607b-67e9-40ec-870b-ebebcb7a5ae8",
+        "date": "2025-12-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst",
+        "vaf_never_display_make_you_happy": 2,
+        "vaf_never_display_difficult_to_use": 2,
+        "vaf_never_display_deceptive_ads": 2
+    },
+    {
+        "id": "9a306c81-e65a-4fb8-8341-07d78671b2d5",
+        "date": "2025-12-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "chargers were too high that too for a small distance I'm never gonna get along with it"
+    },
+    {
+        "id": "90632caa-c208-42b2-859e-f342123d8114",
+        "date": "2025-12-12",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "give some offers"
+    },
+    {
+        "id": "725896bc-c2eb-4bbf-9232-e1fe861ec0cf",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6d108cef-9e51-4f6b-9e4e-2889f7bbd7db",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udcaf"
+    },
+    {
+        "id": "5db7f1dc-bd84-4490-9371-2895c81c1378",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "3febe441-8d6f-4898-a5fe-405878058d33",
+        "date": "2025-12-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "comes when searched namma metro... scammers"
+    },
+    {
+        "id": "3dce7175-8dbe-4548-8664-93f7b6a221a0",
+        "date": "2025-12-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "3-4 autos cancelled on me after coming 200m close to my location . and this happens almost all the time I try to use it . and I've been waiting for over an hour . and the management of this app is ABSOLUTELY RIDICULOUS."
+    },
+    {
+        "id": "2f794024-9733-45d1-9402-131fa9acef99",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udcaf \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25"
+    },
+    {
+        "id": "188568c6-c1f8-4288-95fd-fdd43eaf03e9",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "16a0961a-156b-4603-baa4-6437dca28149",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good services by Namma Yatri App. \ud83d\udc4d"
+    },
+    {
+        "id": "107ca1b7-1ed5-46d7-acf2-63e43decd7b8",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "05b419a7-900a-41be-8830-40725ac76733",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "03de758c-4c73-405e-9a74-8bd94f8b4d43",
+        "date": "2025-12-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "ffc2b1d0-3313-4f77-a760-c6c8b591d562",
+        "date": "2025-12-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "by far the worst app used customer support not up to the mark...helpline call only in kannada, which means I can't understand the menu but tells me in english that I haven't selected anything...really ride drivers I do not recommend using the app as no one got back to me"
+    },
+    {
+        "id": "fc07544f-e2c1-4214-a42a-099d4fed4c48",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good\ud83d\udc4d"
+    },
+    {
+        "id": "fa653fc1-b6eb-4ec1-83c9-1fc74ea3eac4",
+        "date": "2025-12-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Third class application , I purchased a metro ticket of 64 Rs but I can't get the ticket very bad experience"
+    },
+    {
+        "id": "e0f16843-dfa0-413c-b9a3-d7b177f0a439",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice app."
+    },
+    {
+        "id": "ba23c086-172c-4817-9c8b-176c238c13ef",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best app to book your ride or travel.. \ud83d\udc4f\ud83d\udc4f\ud83e\udef0"
+    },
+    {
+        "id": "b4958282-daf1-4bc2-ad3b-07e548f7845f",
+        "date": "2025-12-11",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "i liked this very much, people were saying me that request will be accepted soon, but i was not using. Today itself i installed the app being fed up with Uber and rapido waiting time since 45 mins. As soon as i installed Namma yatri and requested ride it booked within 5 mins. \"Tumba Dhanyavaadagalu Namma Yatri Team\". thanks for immediate help in night time.keep helping"
+    },
+    {
+        "id": "b194af13-7ffe-4471-9b61-7f10be06d719",
+        "date": "2025-12-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "good driver"
+    },
+    {
+        "id": "914e280e-df45-49b2-ac70-e9036abe8c15",
+        "date": "2025-12-11",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "90b19cdf-4323-4a25-b02a-28722e005366",
+        "date": "2025-12-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Customer service is not good. An auto driver touched me inappropriately. There is no place in the app to lodge a complaint on the driver or to talk to customer service. If there was an option for 0 stars I would have given that!! Pathetic service!!!"
+    },
+    {
+        "id": "6aced5e9-56e3-4e78-b289-7c8240d519ca",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\ude0a"
+    },
+    {
+        "id": "6a3c1e15-ff55-4e8c-ad58-9a5e516e69d5",
+        "date": "2025-12-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "What nonsense service. It is worst than Uber and Ola. You should have some policy with drivers and riders. It is so pathetic that your driver's ask upfront to cancel ride and pay directly or they simply force to cancel or cancel themselves. And the rider can't even raise complaint for such unprofessional behaviour. It happens to us everytime we try booking. Leave expanding you won't be able to survive in Bangalore itself. Take feedbacks."
+    },
+    {
+        "id": "650f77a6-224b-454a-bd57-0210746281d3",
+        "date": "2025-12-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "horrible experience the driver asked for extra fare even and rude behavior by driver here in Bangalore"
+    },
+    {
+        "id": "587d8a92-fb89-44b0-b197-00465894aea6",
+        "date": "2025-12-11",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "In namma yathri app unable to book intercity round trips. and no option for choosing date"
+    },
+    {
+        "id": "56d6f18b-ea70-4021-8c5c-dee914050428",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Awesome ride"
+    },
+    {
+        "id": "447bdbd0-cf37-4d33-afcb-fbc8f2e0e49e",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awasome"
+    },
+    {
+        "id": "3e208a23-6438-4965-bddd-c02d17c7efc5",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d\ud83d\ude0a"
+    },
+    {
+        "id": "3424830e-6989-4e74-8c8e-5e510a1956ab",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super very nice app"
+    },
+    {
+        "id": "1078e282-9567-46f1-811e-3f487cfcb664",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "03157013-baa2-46eb-970d-025ebed0ce71",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b6d0bbe7-1ad0-4ba9-b400-1a0b81e349e7",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9b4a7a5c-7a68-4f35-8b46-3cdb28a3365a",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good journey \ud83d\udc4d"
+    },
+    {
+        "id": "63ab0281-d791-4742-acd2-b75bf2cf575a",
+        "date": "2025-12-10",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "62e4278d-c6e1-4409-ad81-c16492a71d9d",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "supar"
+    },
+    {
+        "id": "473348ac-742c-42fe-8fe4-c6ccbe30dae2",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Quick and safe"
+    },
+    {
+        "id": "3cc25cc8-5aa7-4678-aa1d-2a2b1e38f468",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "39126e79-98cd-4907-9c6f-add34601605e",
+        "date": "2025-12-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very worst app. All the drivers are asking \u20b950 extra on every trip. Then why is the app showing a different amount? \ud83d\ude21 Totally a waste of time. The Namma Yatri team is taking no action. Very, very bad. Don\u2019t use this app.I decided to give no stars for this app, but that option is missing. \ud83d\ude21"
+    },
+    {
+        "id": "117e5c87-2649-4519-85aa-bd941d95724d",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "0c5c9237-6bae-4229-a312-4ea391449c8b",
+        "date": "2025-12-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Past few months I am travelling in namma yatri, my destination is 5 km but today sometimes it shows 6.5 kms. Instead straight road the location shows different with extra km. Why ? Is this the other way of cheating people. ?"
+    },
+    {
+        "id": "06c1e870-4ce7-42d4-9bd6-a19b7e1cd9d3",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\udc4d\ud83d\ude0a"
+    },
+    {
+        "id": "01b7fff7-1ce4-48a8-83d9-b8868514a2a5",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good useful app"
+    },
+    {
+        "id": "005aca8f-dac7-49e1-adaf-bc37c43c16a1",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "so beautiful"
+    },
+    {
         "id": "fedd6b29-9eca-44a7-8d3f-06aaa612a68f",
         "date": "2025-12-07",
         "score": 5,

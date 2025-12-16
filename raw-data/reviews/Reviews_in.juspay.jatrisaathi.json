@@ -1,5 +1,506 @@
 [
     {
+        "id": "f6a03b1d-f1f7-4a61-bf63-266dc1f58d7c",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e24b8422-f699-4089-847d-c745e80bbbd3",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "cheap safe and timely"
+    },
+    {
+        "id": "db863a16-ae1d-42b3-9a03-44de2b519194",
+        "date": "2025-12-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "aab562b5-f3d8-414e-ad02-a34e9eb795e5",
+        "date": "2025-12-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good Attitude"
+    },
+    {
+        "id": "a92e768d-7c58-4a58-bc19-e7cfc8306ded",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good job"
+    },
+    {
+        "id": "a60154fd-601b-4f1d-9587-d5a5b10208a1",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "99a4a383-b1f2-4743-b9d9-6a152d0135f8",
+        "date": "2025-12-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Very Useful, User-friendly and Easy"
+    },
+    {
+        "id": "161d9e8a-8463-439a-9de8-4c824e588643",
+        "date": "2025-12-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Best service and good fair"
+    },
+    {
+        "id": "e756fd64-0ba5-49db-9ccf-295f0d258f1d",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome\ud83d\udc4d"
+    },
+    {
+        "id": "cb6847c7-3a50-4fcb-96b6-fc200822d73b",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "bae13443-be27-49cf-a2e1-6e9ab5f238ab",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good riding \ud83d\udc4c and right fare ."
+    },
+    {
+        "id": "96d1723b-e120-47a8-bf3d-cae4aca66fdf",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good\ud83d\udcaf\ud83d\udc4d"
+    },
+    {
+        "id": "85bf8684-fb09-46d7-b909-3d641cdc41d1",
+        "date": "2025-12-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "one of the most worst app provide by government of wb",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "7a3f33aa-a72f-42b8-8eec-9c0be19aa0af",
+        "date": "2025-12-14",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "can't find the option to schedule a near future ride."
+    },
+    {
+        "id": "306a213f-df84-4356-a2e3-41aa1d8f8921",
+        "date": "2025-12-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "bad service",
+        "vaf_never_display_make_you_happy": 2
+    },
+    {
+        "id": "2ce7b9a4-eb62-4055-9b42-45c4692f4d7b",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "BEST APP IN KOLKATA"
+    },
+    {
+        "id": "f78efe0a-4d88-42de-bc53-073a8179bd90",
+        "date": "2025-12-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "c0f055fa-d9e8-4525-b0ea-b6e2651cef27",
+        "date": "2025-12-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "faltu hai"
+    },
+    {
+        "id": "b9f26877-1e33-4f5a-be5d-0a10ac82ecc1",
+        "date": "2025-12-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Popup page in the home page is blank."
+    },
+    {
+        "id": "ae656d1a-adf7-4de1-8f65-b569c6fe9181",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service \ud83d\udc4d .We are very glad to journey in Yatri Sathi ."
+    },
+    {
+        "id": "a178dadd-2e3e-4d8f-a64c-3a369ba44360",
+        "date": "2025-12-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good journey"
+    },
+    {
+        "id": "975f0bd1-5bfe-441e-a318-be4e853fe64e",
+        "date": "2025-12-13",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "After 3 ride then got a book for high value it was not fare for public vehicle"
+    },
+    {
+        "id": "55d0d945-6c75-4992-9f46-54d6eedbc058",
+        "date": "2025-12-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "it's good but drivers have option not to go through the platform where in a driver monopoly is reflected. all drivers are neither bad nor good."
+    },
+    {
+        "id": "17bd5863-08b4-4443-8779-cbd40445f0a2",
+        "date": "2025-12-13",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "app is too slow ."
+    },
+    {
+        "id": "0f940d4f-7805-4046-92cc-835fa1b3fcf9",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "polite & responsible person"
+    },
+    {
+        "id": "0efd947c-5a28-4e66-b044-4766fc99ff5a",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you for better service"
+    },
+    {
+        "id": "e70e3ec4-dc28-4537-87ab-f188333f823e",
+        "date": "2025-12-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "love it \ud83e\udd29"
+    },
+    {
+        "id": "e1cfc9af-78e6-40d5-bf43-41b5139f85ca",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Value for money aap."
+    },
+    {
+        "id": "dc741303-b627-4675-b219-a5ab6aa83090",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "bc3a79d7-d285-4eee-a237-fa0cc75b8b49",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good experience on ride.Driver was also good."
+    },
+    {
+        "id": "baf39950-4516-450c-9d36-11e695d5020e",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "ba4f2c8d-3fb8-443a-a3e2-5df1e59ddbb6",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "b852665b-ec8b-4b22-a60b-7b92ef82ac7e",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d"
+    },
+    {
+        "id": "a48c5195-5486-49c9-a410-f991bfe4b287",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Day by Day Yatri Sathi is improving its services with justified fare also in the pick hours it is really appreciated"
+    },
+    {
+        "id": "9a162ef2-f054-4cc8-806d-70b42702a65b",
+        "date": "2025-12-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "953b6d87-02d1-40cc-9546-6a0e6959abb1",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "no more, all are found O. K. \ud83d\udc4d"
+    },
+    {
+        "id": "8a0daa7c-efbd-410c-848a-ca56d1a5ea7a",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2ef093f2-70a0-444a-ae01-506c4dbeab96",
+        "date": "2025-12-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "now this app is most 3rd class, all time demand extra money, if you don't agree to pay extra then they will not accept your request."
+    },
+    {
+        "id": "2bc24d5e-8e67-4199-bd2e-7617917629be",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice behaviour and professional pilot"
+    },
+    {
+        "id": "158c5d76-b2f7-42e9-9e64-a4647ed78727",
+        "date": "2025-12-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "vehicle should be cleaned"
+    },
+    {
+        "id": "d8cd0b1b-ed36-4eb0-ba57-3a57e1fcec27",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "d379c838-35e5-4ecf-a973-ab259cf138ce",
+        "date": "2025-12-11",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "we have to wait for a long time because cab was not available on time"
+    },
+    {
+        "id": "9957c2df-f80d-43e0-b432-6f1e1c4d7555",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "70ebfb1e-04c3-45ae-b7ee-efa50a5e9d27",
+        "date": "2025-12-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "huge waiting time"
+    },
+    {
+        "id": "6f4d0677-f444-435a-9364-f08f4ac01717",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good and experience pilot"
+    },
+    {
+        "id": "52f126dc-8e49-4d08-a552-e35e1891a291",
+        "date": "2025-12-11",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Pick up points cannot be entered."
+    },
+    {
+        "id": "4fc3c9db-3738-463a-9c77-138dad810e38",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent service"
+    },
+    {
+        "id": "48de9e51-428f-4ceb-8623-bea3f6a8ce01",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "2d038aa7-6b19-4542-8bc9-38ffcac60061",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good app!"
+    },
+    {
+        "id": "26acfd33-e6aa-4441-9f55-757692841cf6",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "07da6d1f-f8dd-416b-8f6e-711cc25a0c62",
+        "date": "2025-12-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "f54abe1a-bfda-4527-be63-3da7bb1bacc4",
+        "date": "2025-12-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very poor services in Durgapur.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "d5094b14-3872-4e12-85e3-00039f5e069f",
+        "date": "2025-12-10",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "b878e575-e2eb-401e-8e91-cfe7c0c9db70",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "user friendly access"
+    },
+    {
+        "id": "a12787ba-6dad-4e83-bb9e-c9d9306a18b5",
+        "date": "2025-12-10",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Ok"
+    },
+    {
+        "id": "99f0285a-3e53-465e-bedd-b4f077f034f3",
+        "date": "2025-12-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app ever"
+    },
+    {
+        "id": "9269cdce-2b94-41fe-8a91-e6e566247c7f",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Rakesh is a very good and polite Person.I am happy to meet him and have a ride with me"
+    },
+    {
+        "id": "92165f4d-60a1-4c4f-abc8-71efe71d0212",
+        "date": "2025-12-10",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "bohat achha"
+    },
+    {
+        "id": "55e652f4-41ed-4861-aae3-9ff460345506",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "4f8d99af-123f-4d0b-a231-eb74302fdd4a",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "096c8ee9-92fa-4225-8dce-19eb440ab8d7",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\udc4d"
+    },
+    {
+        "id": "039ed439-21d8-4a7b-8632-7bad54aa7478",
+        "date": "2025-12-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "on time"
+    },
+    {
         "id": "f99f04fe-7f2a-4331-a047-435af810f321",
         "date": "2025-12-01",
         "score": 5,
