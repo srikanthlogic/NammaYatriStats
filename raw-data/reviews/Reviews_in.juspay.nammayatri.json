@@ -1,5 +1,652 @@
 [
     {
+        "id": "e018fcea-a7d5-4fe2-9880-31955f75bcbd",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c33868a7-ba4f-44ec-bb15-e074d410c615",
+        "date": "2026-01-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The company customer care does not look into its customers interests . I had complained 3days back and they told they will back in 4hours. I don't understand what are they busy into than their work ."
+    },
+    {
+        "id": "c1ce17cc-a8d8-45cc-9946-283d6281cd8a",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best service"
+    },
+    {
+        "id": "b65a284e-7671-400b-ab5e-251a95b5e56e",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "we went home safely because driver is polite and respectful"
+    },
+    {
+        "id": "95e9ad84-a9e8-46e5-82a9-2c43828b36d2",
+        "date": "2026-01-05",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8b661e39-ec3e-4f98-bb7f-a54f3a3eded4",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "time is very effential to be maintained by all. thanks \ud83d\ude0a"
+    },
+    {
+        "id": "69375e47-fc39-4086-8e67-a1d4afa8b6d5",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice Journey \ud83d\ude42\ud83d\ude04\ud83d\ude4f"
+    },
+    {
+        "id": "3d66f44e-9d21-4079-99f2-75ba47caf8bd",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "3b5515e0-98af-4767-9232-23d001291725",
+        "date": "2026-01-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "had to walk for 15 minutes at terminal 1, Bengaluru to get into the cab. discrimination, uner, ola get preference, is it a money thing?"
+    },
+    {
+        "id": "2daddbbd-8f9c-4938-b263-e1873bb948a4",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d\ud83d\ude0a"
+    },
+    {
+        "id": "27c48b11-c1ed-4aca-af14-cac90b5bbd4f",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "taking smile"
+    },
+    {
+        "id": "21d2170d-8960-4186-8a33-46e33bdde59e",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service, polite speaking, decent drivers. feel safe"
+    },
+    {
+        "id": "2122e64f-bafb-43e9-9fc0-0d0e62d8eead",
+        "date": "2026-01-05",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Not good. No designated booking space marked in KIA airport. Books anywhere then, customer and driver have to coordinate to reach specific nonsense pickup zones. And works the opposite in IT Parks, where it will allow you to book from specific placed only."
+    },
+    {
+        "id": "19418995-93e7-47a4-ac69-30f374363eb6",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "12912975-1692-4510-af78-984c5e4f6fa1",
+        "date": "2026-01-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "feb26d47-d4a6-40c7-8d9c-adf3d5613718",
+        "date": "2026-01-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Could not get a cab at all, it's the same app as Yatri sathi just the name has flipped.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "e7ef1663-7ea5-43e9-bb06-5d3f1ced7a9f",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \u0ca1\u0ccd\u0cb0\u0cc8\u0cb5\u0cb0\u0ccd"
+    },
+    {
+        "id": "e15396a3-6f78-4791-8d8a-e96ef7f2e877",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "supar"
+    },
+    {
+        "id": "e0e523d2-d12f-4b6c-984d-9876f714236a",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very pleasant ride"
+    },
+    {
+        "id": "d96d507c-f197-4240-bb2a-af16353ec5d7",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d1f1439a-d319-452c-b206-f34643079446",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "b2e6c7ae-e125-44cc-a4ad-b2c0bc5e8d7f",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "733194f4-1658-4fec-82e8-6ceae2aa2d01",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "please more advertise in Bidar district four help driver and customers"
+    },
+    {
+        "id": "6c17da83-1430-421c-9756-959485bd1ed4",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "63935c8a-3f89-4840-a44c-92cee1c229c8",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "20c1a893-5ae3-48d9-aeb4-cbc1187906bb",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "1d3429eb-313d-40d3-8f82-164a9733097b",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "0b88d77c-95ef-484f-9d88-825b3a080120",
+        "date": "2026-01-04",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "it's safer than local drives."
+    },
+    {
+        "id": "0aecad52-7d84-4eae-8eda-b1d4a6de301e",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "00f16a6d-a7f2-4e96-9f3e-311c7349ae6c",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "on time ride"
+    },
+    {
+        "id": "fe2820cb-ef95-43e7-8489-bf64cdb4fafc",
+        "date": "2026-01-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This App Does Not Work In Delhi."
+    },
+    {
+        "id": "eb6f0d60-459d-4d3c-9ec8-4a6fb441d62f",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\ude18"
+    },
+    {
+        "id": "e9fd7443-e7ca-46be-8446-347b7a0dd630",
+        "date": "2026-01-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "You can edit the trip nor cancel. There is always a glitch"
+    },
+    {
+        "id": "e9f88472-8d2a-4ddb-958f-5b6162a05ade",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4c"
+    },
+    {
+        "id": "e5ac0b72-60e3-45f2-9216-5baf5748c3b8",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d3ec5819-3bd7-4183-ba80-8a124398cbeb",
+        "date": "2026-01-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d083a0f6-9271-4dc6-8397-faa695a08d52",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "lillte improve"
+    },
+    {
+        "id": "ce1cdd00-6f40-469e-a2bd-5160122448a6",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great ride \ud83d\udc4c"
+    },
+    {
+        "id": "bc3924d5-41e6-44a4-9075-074bc7618b23",
+        "date": "2026-01-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice app for ride anywhere"
+    },
+    {
+        "id": "a8485adb-ca08-4b3b-a105-57fa48396ee5",
+        "date": "2026-01-03",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "okay"
+    },
+    {
+        "id": "52f34a0e-130b-48ec-b261-5eaf546465b8",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thanks for the Support for the public \ud83d\ude4f"
+    },
+    {
+        "id": "4e8331e4-f4ed-49a1-9405-7b07573a384a",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "auper"
+    },
+    {
+        "id": "45fce648-58c6-4037-8a87-705ebd298441",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe journey"
+    },
+    {
+        "id": "3e784b92-3e67-49ea-83e6-994bb9af116b",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I like ubar"
+    },
+    {
+        "id": "3983d55e-ec36-4270-93d4-ea4902a192e2",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Team Work \ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d"
+    },
+    {
+        "id": "3324817a-713b-4c1a-ac48-356d4c707c8b",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "2a7b9ab3-bab7-45a5-aa07-94e8c6abeb30",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's good"
+    },
+    {
+        "id": "e7c276b7-dfc7-4681-b9c8-b62007cfd2fc",
+        "date": "2026-01-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst experience from the day of installation till the day i stopped using this app. If km become more than what it is shown in their app they will increase the price to 30 and if my km is less than the shown once they reduce only 2 to 3 rs. Rapido is much better than this. I prefer rapido and not namma yatri and I feel its good for others as well. The price is also less compared to Namma Yatri."
+    },
+    {
+        "id": "d76324fa-7f39-4551-b46c-374f38bd1287",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good.. much better than ola \ud83d\udc4d"
+    },
+    {
+        "id": "b5fa275e-2189-4fde-abac-eca3c273f749",
+        "date": "2026-01-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "There is no response for complaints raised. Waste of time."
+    },
+    {
+        "id": "a7c85001-ccfe-46c2-bbd8-ffb3f7eef486",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "9427fdbc-2449-44f1-a081-23ae306a57bf",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great app"
+    },
+    {
+        "id": "795e4114-14b1-4f43-96c8-1b8547214382",
+        "date": "2026-01-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "4fd436b1-37f9-408c-86f9-c4f12ce019de",
+        "date": "2026-01-02",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "worst app and service. I am not sure my concerns with the app development, but to the Business and Management team. 1. Driver reaches to the point way behind the pick up point and wait time will be triggered. It is definitely not possible reach the point where cab/auto is stopped. It will be so much difficult for the Elder people and with the Luggage. 2. Drivers also wantedly denying the OTP is invalid so that they get more wait time. 3. Cab/Drivers are exploting the app loopholes.",
+        "vaf_never_display_considerate_of_time": 2,
+        "vaf_never_display_deceptive_ads": 2,
+        "vaf_never_display_content_language": 1
+    },
+    {
+        "id": "48706c91-f8bd-4bc2-970c-5456d83e5f80",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It was nice"
+    },
+    {
+        "id": "30a410dd-4823-4703-9ac5-bf7b8f0437f2",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "20e59d2c-a725-4200-9b8b-62dc9c52cbd7",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "0d69df61-9d7c-4d99-a442-126f446a1cc1",
+        "date": "2026-01-02",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "it's good"
+    },
+    {
+        "id": "f8b1ba90-0047-4ea7-8e9c-3f301327bb1e",
+        "date": "2026-01-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "WASTE OF MONEY"
+    },
+    {
+        "id": "f04c1445-fbcd-4c52-b63b-6341f9f8aa2c",
+        "date": "2026-01-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "if U guys aren't at every location then why the hell U have given hope to people it's just show we can use it from 1 hour I'm trying to book but there is no cab's if it's not available so pls don't give it in every location"
+    },
+    {
+        "id": "ee1887a6-0266-4a71-b16d-675b9f194b1e",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Namma yatri super.... safety and amazing price"
+    },
+    {
+        "id": "ddf18819-63a9-4d65-b324-5b273ce4f362",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good behaviour and driving"
+    },
+    {
+        "id": "cf5c58e7-2694-4ef8-80e5-844d23954669",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good useful.during peak hours & holidays when rapido not available after 9 pm"
+    },
+    {
+        "id": "ac2ef1cf-11f6-41b0-9ca7-4c6dbca8d69f",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best app and fast response"
+    },
+    {
+        "id": "a35e8eab-9f35-4828-a05a-a2d895f37163",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "6c4adaa2-6066-42ec-9d93-2c8b266ddadc",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "the good ride"
+    },
+    {
+        "id": "6a67fe53-2cfe-423d-874a-9b84155f58cc",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app"
+    },
+    {
+        "id": "6341d1b0-ea4d-4291-bb05-7cb1a627b507",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "keep it up this all to grow"
+    },
+    {
+        "id": "5c6aa5d1-fa88-444e-8295-5d4ea15e4af8",
+        "date": "2026-01-01",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "same to others apps. no different. difficult to use. drivers not attend the trip."
+    },
+    {
+        "id": "479316c5-9656-43a7-a354-f2c1bedaced5",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2181d342-c509-4233-b7ac-31c38b62b896",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good but when we book cab not coming"
+    },
+    {
+        "id": "1de24de1-58d7-43c5-ba1e-fedb43801e26",
+        "date": "2026-01-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app ever I used, i suggest not to use this app, you may lose your money",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "13151fd9-5851-43d3-a716-82e04f5dd127",
+        "date": "2026-01-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not getting cab frequently"
+    },
+    {
+        "id": "00cd5a2d-8e6b-4f01-bfbf-85c77d92313d",
+        "date": "2026-01-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The driver did not start the trip on time despite my arrival at the pickup location as scheduled. I have clear screenshots showing that the journey timer began increasing even though the vehicle had not officially started the trip. During this delay, the driver was already moving the vehicle, and the timer continued to run without the trip being properly initiated. As a result, leading to an inflated fare. I tried reporting and the AI wasn't taking the response"
+    },
+    {
+        "id": "ec2adec7-abf5-4a11-bbc6-ab74165adfe2",
+        "date": "2025-12-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Awesome"
+    },
+    {
+        "id": "a680ca91-657e-467a-b382-79075bbbf31d",
+        "date": "2025-12-31",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a4f714ef-e29d-44b8-983d-e805e4fa8207",
+        "date": "2025-12-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe journey"
+    },
+    {
+        "id": "80342bb0-add5-4215-9f8b-e3e66b24de62",
+        "date": "2025-12-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome app"
+    },
+    {
+        "id": "6edeec82-7324-42a8-88ea-ee81712d1a6c",
+        "date": "2025-12-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "30bbcd05-bac3-428b-b7e8-006fb1a0e050",
+        "date": "2025-12-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "i would like to praise up dear all team of Namma Yatri today 31st December 2025 night 9 o clock pickup from Lulu mall and Drop To Begur ,,it was long auto night trip for me but driver ,,anna Hatts off Ismail Bhai. not a single percent of fear I felt with him , please raise nice funds for him ,,, bhai jan me or meri beti ko safely or Comfortable ride dene k liye ,,Thanks"
+    },
+    {
         "id": "ea37a5f8-6fb8-4677-856a-b7d1cafe3d9b",
         "date": "2025-12-30",
         "score": 5,
