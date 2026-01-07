@@ -1,5 +1,407 @@
 [
     {
+        "id": "cd7bf00b-c2ff-4ddd-84c2-2ba5ea27e9a0",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "budget friendly journey. Driver's behaviour very good."
+    },
+    {
+        "id": "8370d358-b4b2-4702-8ab6-46a4ee37af64",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "First experience..... But comfortable and wonderfull"
+    },
+    {
+        "id": "fa6aa108-91f0-49ba-9e37-43fc2e3cac00",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "ea2b5d63-5baa-4a98-b11f-ef380c583ed4",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good apps"
+    },
+    {
+        "id": "ea14babf-f6c2-456f-874c-5d3bc5484ffa",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c79a6f8d-d954-4af9-b386-d0a5eb31524c",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good app"
+    },
+    {
+        "id": "c113d5c5-e7b0-4f07-8220-9675e577b061",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Too good than other app. I am a satisfied consumer of yatri sathi"
+    },
+    {
+        "id": "ad7126a6-ea7b-4455-9034-0874fd5e7452",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Reasonable ride cost"
+    },
+    {
+        "id": "a622d929-ba60-4196-9a6f-969de832b9cd",
+        "date": "2026-01-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "92be8547-05dd-4dd2-908f-b2c8a9949e01",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "7e4c36fc-0082-4fc7-bbcb-8b0ee50daf0a",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "use yatrisathi -- good for both passenger n driver."
+    },
+    {
+        "id": "6fd84a36-fd22-45ad-8ab7-28547dc38210",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very useful"
+    },
+    {
+        "id": "48263e0b-a693-4427-8df3-9acce72a0aba",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "3af5de64-c2ee-4cf1-82ee-27be9d31b90b",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "fdb18c30-ee85-41e4-be31-bf221987742d",
+        "date": "2026-01-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It was the first time i booked a ride in yatri sathi in Kolkata and the experience was very bad. The Driver refused to drop at the location and stopped the car at an unknown place without notice and completed the ride from his side upon showing in app he said rudely to complain and give him full payment"
+    },
+    {
+        "id": "d0344ca9-37f0-4828-815e-264f6d039635",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The lowest fare taxi service in Kolkata."
+    },
+    {
+        "id": "c8f2667a-9357-44f5-9702-6eee9beff977",
+        "date": "2026-01-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the price are budget friendly but the driver are just not interested to accept the booking.... it won't work with such drivers...!"
+    },
+    {
+        "id": "aec25e00-1c83-4be7-8db8-04b9fd7289ab",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good job first time using this app.... it's real fair taken... ( Ola and Uber is a real big thief)"
+    },
+    {
+        "id": "a6e9085d-649e-4329-ad8e-bab4a3e9b17e",
+        "date": "2026-01-04",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Safe journey."
+    },
+    {
+        "id": "a2efa9ba-1cc2-4b3f-8669-61e4b97b74e8",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice journey .Good job \ud83d\udc4d"
+    },
+    {
+        "id": "7d7c98cd-dcb7-4f63-ae4c-e4e295d8a079",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The app is very very usefull but from 1 jan An issue has been occuring with me the rule says if the rider waits a minute or more then there is a penalty of rs 1 every minute but from 1 Jan my ride starts before the penalty time period but still I am getting charged."
+    },
+    {
+        "id": "7aec0277-d4af-48c3-902b-1bc5228c4977",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best for ride"
+    },
+    {
+        "id": "47b2dee2-dc30-4e35-a3df-45d7260ee62b",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Previously customer care no was really helpful. but now I do not know what is the customer care no.!! and need to focus on the quality of this software. NEED THIS APP IN KAI OS FOR JIO PHONE TOO.",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "26245e3c-1d07-4979-bca1-62ceb1bc4f95",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent \ud83d\udc4d"
+    },
+    {
+        "id": "0db574ff-74fa-4733-860d-8a26c4a0f38f",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "f260f537-539f-45a5-a4ce-8fc771a5c7c7",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "b213c57e-d503-45f7-9f24-d202dcb0210f",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "73c51d6a-0b0c-47d5-b15d-34ecbd54acee",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6e315f6c-0456-4bed-a0f8-6186b06326ee",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "From the airport to gnit my location journey was very nice and the driver was cooperative."
+    },
+    {
+        "id": "6b2b1d2e-62b2-4ed0-a59e-2a506a85a0ad",
+        "date": "2026-01-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I lost my item in the cab and the support system doesn't help me at all"
+    },
+    {
+        "id": "4619db3a-bb6e-4b94-887f-72f36b1762dd",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The driver was very nice, I mean he was honest and good behaviour."
+    },
+    {
+        "id": "40ece8bc-d31f-4adb-96f9-e13ebae65b0b",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "f8f4361f-eff2-407d-b01f-d3abb65fa198",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "aa3fc7cc-cfc2-4035-9aef-5ed6bd7ca781",
+        "date": "2026-01-02",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "quality has gone down like anything. most of the time, we don't get any cabs, and moat of the times when we do, they most likely cancel the ride or ask for extra charges. now they are also showing waiting time even before the driver has een arrived at the location, and on asking the driver, he says u will have to pay the extra charges or cancel... hell of experience"
+    },
+    {
+        "id": "94a8f82d-f116-47d1-b42e-63674eac7f82",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "928a6ee7-30aa-4f34-99e9-9846a89dfc47",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very helpful to get the cabs from the airport, railway station and hospitals. I wish they had been available from the traffic crossing in the Traffic Police kiosks of main areas in every municipality crossings."
+    },
+    {
+        "id": "2fffce12-5403-4534-944e-d35c81e3a3ce",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice service"
+    },
+    {
+        "id": "0957bb1d-46ff-4e07-ae6b-716cfa20dbe8",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best"
+    },
+    {
+        "id": "f219fb64-cd18-47f4-9ba7-2e0d5783fa37",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "f04e0ee2-7a62-47ff-8730-fb291bc5bf1b",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "really good , very helpful"
+    },
+    {
+        "id": "ecc05134-4773-4e32-9492-dd4c36530733",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "osam"
+    },
+    {
+        "id": "dd129fc0-bcce-4490-a237-049e4b255a3d",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "cheap and best service"
+    },
+    {
+        "id": "d123120f-654f-4692-8981-e125a7212a3b",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a33070a9-aeb6-4382-a6a1-a3eb3c2e617f",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very very good"
+    },
+    {
+        "id": "9e004626-ee1a-4bee-8a28-289a8e78fd71",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "valo"
+    },
+    {
+        "id": "891f0388-39a3-43a7-8cbb-ac64496eff97",
+        "date": "2026-01-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Overall service of Yatri Sathi need to be improved."
+    },
+    {
+        "id": "886ea20f-448b-4bce-b204-6f35f02825ce",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best ride"
+    },
+    {
+        "id": "55480aa8-a1bf-4bfc-892b-545d0b539fac",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udc4d"
+    },
+    {
+        "id": "3bd9820d-f751-4119-b834-2eaa2ccabb4b",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The app is Useful... But like Namma Yatri please include a \"Travelling with Pet\" option on your app..... Many pet owners like me would find that useful"
+    },
+    {
+        "id": "08fde332-9116-4ef5-9bb4-be8480601172",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
         "id": "f6a03b1d-f1f7-4a61-bf63-266dc1f58d7c",
         "date": "2025-12-15",
         "score": 5,

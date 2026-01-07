@@ -1,5 +1,455 @@
 [
     {
+        "id": "fd0ab681-5a8e-41f8-9a9f-12c5a405b76f",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Be a boss \ud83e\udd73\ud83e\udd73\ud83e\udd73"
+    },
+    {
+        "id": "f2d6e7bb-f287-4c5e-8c08-10fc13f6ab44",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "b3aa2cde-c810-4840-b2c5-8f9a1da68657",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udcaf"
+    },
+    {
+        "id": "ad1dc11e-a555-458b-b342-c8866dcd8d10",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app",
+        "vaf_never_display_easy_to_use": 1,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_inappropriate_ads": 2
+    },
+    {
+        "id": "a6741307-4886-44e4-8287-433fa82f6b42",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "9d0ab85f-0e8f-4c1a-b230-c765a6ee3702",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you"
+    },
+    {
+        "id": "8f94e4c4-b1c5-4727-b116-86fe01b273bb",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you."
+    },
+    {
+        "id": "30429f62-733a-48cf-a4af-9c2bb4e7747f",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "08f74f4d-3868-418d-a6d5-0bbf1311e448",
+        "date": "2026-01-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f75450eb-8074-4aea-b025-6baeab0d5f45",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0ca7\u0ca8\u0ccd\u0caf\u0cb5\u0cbe\u0ca6\u0c97\u0cb3\u0cc1 \u0cb8\u0cb0\u0ccd"
+    },
+    {
+        "id": "b08853cd-c8be-4f73-af7a-8e89ff752e7c",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "8e73e079-858e-4841-b307-3b0a1ee538de",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4c"
+    },
+    {
+        "id": "78645343-faa6-4bb8-be9c-38dc37a571c6",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "1eeab599-6a93-4611-96c7-6b5f7a97c174",
+        "date": "2026-01-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e2cdb24a-3ba2-4ddc-8318-08bacd56075f",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Namma yatri super number 13 duty na padta hai le"
+    },
+    {
+        "id": "cb947100-e0bd-483b-b6ee-65f26e26aab9",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "bb8bbbd7-1afe-4ad1-920e-4adf876ebb23",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b5b2e991-b90d-48e1-bea1-a9eb7bdce721",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "all ok"
+    },
+    {
+        "id": "b1405fbc-d60f-4b86-bf94-e8710387d464",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Jai",
+        "vaf_never_display_easy_to_use": 2,
+        "vaf_never_display_positive_impact": 2,
+        "vaf_never_display_visually_good": 1
+    },
+    {
+        "id": "80f50975-a394-40ec-a067-18ed952605e8",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "6860e9f9-7dda-4299-8fc5-f2537f7e6973",
+        "date": "2026-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "this app is perfect"
+    },
+    {
+        "id": "43a7099e-9e77-4944-a77e-03d0dbb5e371",
+        "date": "2026-01-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Sometimes being overlooked and not picking up or making calls is a big issue, there is no app in this.I am not getting equal trips If the new driver is getting more importance then tell us Look at both from the same perspective also driver's using auto clicker There was no response from your team.",
+        "vaf_never_display_easy_to_use": 1,
+        "vaf_never_display_useful_notifications": 1
+    },
+    {
+        "id": "00021afc-75b2-4f86-a135-61873d0f45e1",
+        "date": "2026-01-04",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "d8f60dcb-bb21-4540-8dde-6b741d24ed32",
+        "date": "2026-01-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst aplication"
+    },
+    {
+        "id": "9c77ed0c-e8cd-4c97-8a2c-f34c7b3ae90b",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "861bf45b-0162-4883-9cb2-6318ba178ee9",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice trip"
+    },
+    {
+        "id": "6a947ab7-a450-4bab-a121-744cdcf8db53",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "63c4df75-c22d-491c-91b7-5d884fd69fac",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5c516af4-add4-4e26-a6a4-1c8be1e9b199",
+        "date": "2026-01-03",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "application not working"
+    },
+    {
+        "id": "5059f7f8-7b7b-46bd-901b-5c23bc0f6a1d",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "4c22ca1e-d28b-4a1f-82fc-37b33ccdb75f",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "421a065f-7585-4675-883c-db731c8adcce",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "35d0a8da-ac07-4b62-8dba-4bf52a9a67a1",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "suppar"
+    },
+    {
+        "id": "2e05ad81-e43d-4ef0-a927-96da61a69de9",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1bdc665a-5923-4dbc-acac-254cf9e129c2",
+        "date": "2026-01-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Please reduce the pop up screen size for new orders. After the few updates, you guys did the opposite and maximized the booking screen ...... it is really horrible as it blocks the map and other running application and forces me to close your app"
+    },
+    {
+        "id": "0e6bb655-3b99-4bbf-adc1-78e3cc2339f1",
+        "date": "2026-01-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "midd"
+    },
+    {
+        "id": "c1e969d9-33c9-4a5d-b6d4-5d6fe93193f6",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "b3bfce28-bd7b-46d9-8ce9-d43d5450cd8d",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "833907f5-a0c3-4e40-abe1-2f591e3717cf",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d\ud83c\udffb"
+    },
+    {
+        "id": "7d1c14eb-915a-45b4-bf50-e2cfcdc120c7",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "70089dcf-d9d4-4338-ae5c-3627a1d7eac0",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "6ed94324-3250-446c-bcf8-20c6741cc0c6",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice \ud83d\udc4d app",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "661adfd4-f84f-450e-961c-09276535822a",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "download not"
+    },
+    {
+        "id": "4cd27e97-da76-4bee-a2c6-05eab602010f",
+        "date": "2026-01-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "3a65b000-e587-4b83-91b2-8b96d4d25425",
+        "date": "2026-01-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "this app is draining my phone battery and also causing my phone to hang up and heat up, where I can't even accept trips not use the phone, pls do fix it. am using redmi K50i, only issue with this namma yatri partner app."
+    },
+    {
+        "id": "2d9d8695-8e5b-4121-9576-2d993002be38",
+        "date": "2026-01-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "autoclicker apk not working in namma yatri driver app and very cheap ride price Drivers are not earning anything.",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "ba1f6491-c8b4-4ff1-9129-3b7b0330dcfa",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\udc4d"
+    },
+    {
+        "id": "b6317fd6-49f5-4dc5-8aa6-ae085856a23c",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "b4691359-5851-4ce2-a52a-86b789033aef",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "b358f684-41b8-4ac3-bea3-df8a9e5d3805",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great"
+    },
+    {
+        "id": "9deeb03f-84bd-46c5-923d-0467570f0d00",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "69122458-4ff9-403b-9a9e-66038eba8434",
+        "date": "2026-01-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "useless driving app. I'm trying to attach my car to drive under namma yatri app it's showing under process, another one I'm trying to contact customer care service the given number is not connecting. worst app please don't install. the given number not working"
+    },
+    {
+        "id": "4f5743c6-20a4-450a-84c8-b640506f18f1",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "okay"
+    },
+    {
+        "id": "4064c73e-91f0-4aa1-a78b-0ece68aca40e",
+        "date": "2026-01-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "loveable \u2764\ufe0f"
+    },
+    {
         "id": "f2793163-526b-4690-b8eb-12148bd0cf2f",
         "date": "2025-12-02",
         "score": 5,
