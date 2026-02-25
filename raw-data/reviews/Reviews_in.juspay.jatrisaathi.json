@@ -1,5 +1,403 @@
 [
     {
+        "id": "b1a47979-b267-4b01-ba69-13969a37e2e6",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6f619fee-026c-4748-8290-557655f8ce64",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "39fda834-aca6-4ace-a6c4-7d133dc8245a",
+        "date": "2026-02-24",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Some time some drivers are rude to passengers \ud83d\ude21 that I thik is need to be improved otherwise it okay okay but I can't it is very good"
+    },
+    {
+        "id": "32fd5cc8-bb4f-4cc9-8b3b-c45cc09fd7e9",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "01aa07a0-60a1-428c-a6f3-75843e8f85fa",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good driver"
+    },
+    {
+        "id": "e1a7c8d3-9a7c-447b-8612-8d79ad1fca23",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "d664c691-0ec7-468a-8f52-b7de1a31f776",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good facility.............."
+    },
+    {
+        "id": "d10dfc11-5bf0-4e3b-bd02-6051c78e8c79",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome"
+    },
+    {
+        "id": "a81c8eb9-b372-420f-9f1f-16c1d4faf89d",
+        "date": "2026-02-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "online payment needs to be included."
+    },
+    {
+        "id": "913a313a-bb20-444a-bcc5-8e1edf7b03da",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "85e8e768-59d0-4085-843b-9354fe69456d",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fraud"
+    },
+    {
+        "id": "2ddb0281-c87d-408d-917a-ba2dd80d3fbb",
+        "date": "2026-02-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Encouraging us to feedback, good things appreciable, bad things like ASK EXTRA MONEY not sorted out."
+    },
+    {
+        "id": "1461c66b-f5e2-48f0-b8b6-4c88ca544e7f",
+        "date": "2026-02-23",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "This has happened 2-3 times, whenever I go to book a ride, no one accepts it and even I increase the amount but still there is no response from the drivers and when someone accepts the ride, he cancels it immediately, if this continues then you should close your app, this should not happen"
+    },
+    {
+        "id": "09c62421-f8c6-40d3-bbcc-006b467083cf",
+        "date": "2026-02-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "it's so annoying when they(driver) don't accept the ride purposely. I could see 3-4 cabs around my location but even at a fine fare they want more. one driver accepted the ride and Phoned me and demanded more than the amount was shown on the app... they purposely don't accept so that we pay a hefty amount for that ride as we r getting late \ud83e\udee9\ud83e\udee9."
+    },
+    {
+        "id": "061be1be-7130-4df1-afc2-cb58c748b121",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fine"
+    },
+    {
+        "id": "fb470f58-07c0-44cc-8241-3f40458f26fa",
+        "date": "2026-02-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "da85bfe1-b2f7-473d-aac3-ab6434665ee4",
+        "date": "2026-02-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad showing other price but after booking other price and location. Way too bad app."
+    },
+    {
+        "id": "cb7e3fc8-126e-49be-a547-7a16c1061f07",
+        "date": "2026-02-22",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "It takes a lot of time to stand in the queue"
+    },
+    {
+        "id": "b6cd0f16-e3b7-4916-851e-3634fd5af01f",
+        "date": "2026-02-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "9b1d296c-8425-4397-979a-f820ff16fd33",
+        "date": "2026-02-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "59183ed6-32eb-41f1-8c31-d0a25fae82ba",
+        "date": "2026-02-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad .... no response"
+    },
+    {
+        "id": "5824c22d-465f-41d1-a656-6e2d2ea56f7a",
+        "date": "2026-02-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "vare vare good \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\ude4f"
+    },
+    {
+        "id": "228f5913-e622-42f0-86e7-043988ec43d9",
+        "date": "2026-02-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Imandar hai achcha laga"
+    },
+    {
+        "id": "1e364037-9a70-4da4-9d52-52d3a72be4b0",
+        "date": "2026-02-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "comfortable"
+    },
+    {
+        "id": "1afdbc54-6ca7-45a6-bb62-3382fe56bda3",
+        "date": "2026-02-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e6b72411-20a1-4942-bf43-8104787e59cf",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "VERY GOOD"
+    },
+    {
+        "id": "adad2d2b-647e-4961-aa98-567c480e7308",
+        "date": "2026-02-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "There is a minor bug in the app , lets say i am playing songs on Spotify and I open yatri sathi to book a cab, my music playback stops and I have to restart my music. It would be a nice quality of life change if you guys can fix this issue. Ps- A suggestion can you add an option where i can book a ride for someone else through the app."
+    },
+    {
+        "id": "9619d4e9-e6a8-430c-bc65-a49d7bc5df08",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's a nice service app provides vehicle services at genuine price ."
+    },
+    {
+        "id": "9567dec6-9f41-4526-81b0-7819af4ad114",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "812ec9ce-5676-4afa-b6dc-c143355685b3",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good App ."
+    },
+    {
+        "id": "8045fffa-9b3a-4295-9c1c-62a6a2f343a9",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "59b76b47-05a3-4fd8-addf-7d281fa86ae9",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "22d78da4-d0c4-42ad-8b54-c00a0a1f1c92",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "fd4a9bea-3970-41ad-a551-e4762c559f80",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good experience"
+    },
+    {
+        "id": "f72112f9-87e1-490f-8ca2-209a68fac79d",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I love the app. Reasonable price",
+        "vaf_never_display_spend_more_time": 1,
+        "vaf_never_display_content_language": 1,
+        "vaf_never_display_negative_ads_impact": 2
+    },
+    {
+        "id": "f23fd32e-d3ee-4162-b4e9-96dca7114398",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "ea4c1c46-61f9-47aa-aa30-0919be7b5e0b",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This is definitely a true genuine Indian Cab App designed for mobility where ever its available with the intention to provide service at Desi affordable cost. Human mistake may happen sometimes in Cab Drivers which is possible but overall this App is Indian Level Dynamic. Overall highly satisfied and may our great nation be World's No 1. nation in terms of Mobility. Thank you team. Jai Hind. Jai Bharat. Vandemataram."
+    },
+    {
+        "id": "99c42250-a26c-4b2e-b90b-4c5fe5bc8864",
+        "date": "2026-02-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst customer service.. Ap booking karo Sedan joki likha huwa hein premium ac comfort car ayega ghanta ata hein. sabse bekar wo bhi non ac purana car ata hein upar se complaint karo to bhi paisa nahin dete company walo. isse accha uber heim complain karo toh atleast wo log sunke paisa dete hein .... sabse bekar customer service or inka service bekar sab purana gari ap non ac cab book karo accha hein ap sedan premium cab book karo apko non ac khatara gari milega",
+        "vaf_never_display_easy_to_use": 2,
+        "vaf_never_display_app_description": 2,
+        "vaf_never_display_meet_expectations": 2
+    },
+    {
+        "id": "4aadcb46-494f-4762-9969-ca6a43b47b0f",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "476bfb39-fef9-4b08-985d-241ac33215a0",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent for Kolkata"
+    },
+    {
+        "id": "13d388fd-e561-424c-9b48-7acd79e06c5f",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u2764\ufe0f"
+    },
+    {
+        "id": "b62cf6e9-e8f5-419d-8643-729afe1f3f5f",
+        "date": "2026-02-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "prices are reasonable, and interface is good ,but the drivers are absolute menaces. they don't do background check and they are not qualified, asking extra fare, rough driving and frequent cancellation."
+    },
+    {
+        "id": "b24913ed-5dca-4094-9bb2-24cbac02ddcd",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a204d14a-5ba1-4553-8f81-690e9b6bc8f0",
+        "date": "2026-02-19",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "this is a great initiative from the govt of west bengal, but it should be well maintained by the government, it's a duty. one can't get ride from Sealdah station to Shalimar station, though there are plenty of fleets available at the pick up location. the duty personnel can't take any action accordingly. common public always try to rely on the government app. but it's a failure by the government."
+    },
+    {
+        "id": "9325e42f-ea2b-40ee-baa5-30e0fd907fa7",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent Application \ud83d\udc4d"
+    },
+    {
+        "id": "72f1302b-8023-4a94-af27-f422e70bae67",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "expert"
+    },
+    {
+        "id": "6c51b7cf-518f-4e3c-a5de-473f6b4f08e3",
+        "date": "2026-02-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "app crashes when trying to upload image to raise a ticket."
+    },
+    {
+        "id": "5afd03dd-22bf-4207-a744-53be9a8e44ec",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "all good car"
+    },
+    {
+        "id": "56158d47-5ebf-44e6-968d-c99ff93f3bb7",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
         "id": "cd7bf00b-c2ff-4ddd-84c2-2ba5ea27e9a0",
         "date": "2026-01-06",
         "score": 5,

@@ -1,5 +1,424 @@
 [
     {
+        "id": "f4d6e898-f06a-4df7-9117-9ad5e09ca2ca",
+        "date": "2026-02-24",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "ur app facing issues"
+    },
+    {
+        "id": "e9968247-cc74-4bfc-ba96-63019c22ed21",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "e66f5c2d-f8de-44cf-b10f-78b2eecc75e1",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e03148a7-6703-417f-91e2-8b8ec42bd8c4",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "bd9cd9a7-1356-4a01-8f22-85fa15647539",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "ab112c25-5c2a-45ac-9f30-14d84b8b2142",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "8eea9d7a-5d8c-42d9-9750-3e10aaa47d41",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice \ud83d\udc4d"
+    },
+    {
+        "id": "807af997-8cd9-4751-b038-596bc333be04",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "6760bbb8-72a9-4782-87e0-4802ae54f56d",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "5074d218-9f8f-4b54-952a-827658e0d8b2",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "4867a0ac-93b2-4f7f-ad60-3e4e8b374e75",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83e\udd70"
+    },
+    {
+        "id": "3e2f362b-f845-4f4b-b333-8fb002ead836",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "fc04ec98-ca7e-43fd-9335-315f6ebc1371",
+        "date": "2026-02-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "680b7e35-7d0a-4363-9f69-c96052c1179e",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "4a45d85c-f573-44a0-8880-79d84e8529b8",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super appa"
+    },
+    {
+        "id": "1681c401-1a01-403e-86fb-9440b50f17af",
+        "date": "2026-02-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "froud ... no bookings...waste of time"
+    },
+    {
+        "id": "093b29fa-1734-4faa-a085-3f24f0c96d24",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "cc25ade1-7619-4972-ba07-5f44e2cabb3b",
+        "date": "2026-02-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\ude0d\ud83d\ude0a"
+    },
+    {
+        "id": "a7182cab-98f1-4010-bdab-0c7a16c6f637",
+        "date": "2026-02-22",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "ok ok"
+    },
+    {
+        "id": "56bbfc78-0b34-4dfe-8e79-63b6e6625269",
+        "date": "2026-02-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "434a3946-3cc2-4b0d-8db3-e9625b541d77",
+        "date": "2026-02-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "more km after destination but amount not added same amount showing."
+    },
+    {
+        "id": "adf0c62e-e969-4ccb-864c-a5be0c822d7f",
+        "date": "2026-02-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a0028377-a673-4c69-828c-65a7e2cb34e8",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "9581c176-9f3e-491e-9367-16811cb91d2b",
+        "date": "2026-02-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "using dog tricks @nammayatri troubling drivers"
+    },
+    {
+        "id": "7c185f84-636a-4bd8-8144-a3daa096b5e7",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice \ud83d\udc4d",
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "7395d17b-a6d1-4cb4-b6f8-61bf181e9b98",
+        "date": "2026-02-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not getting over build up only update how to attract customer more bookings in your app"
+    },
+    {
+        "id": "4e1f6857-cb3e-4a8c-aa5a-209346dfc6d6",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent awesome \ud83d\udcaf\ud83d\udcaf\ud83d\udcaf"
+    },
+    {
+        "id": "477d0acd-c84c-47a4-9f6f-5a17452ff8b0",
+        "date": "2026-02-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "no booking you cancel the add 10rs waste app",
+        "vaf_never_display_visually_bad": 1,
+        "vaf_never_display_difficult_to_use": 2
+    },
+    {
+        "id": "f565471e-0b71-4fb2-b846-c6e6c65ded97",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "okay"
+    },
+    {
+        "id": "ec180d23-ad6a-48f5-91ed-b3d2f02271d1",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super Namma yatre",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "d097c454-0c77-45d9-b8c5-f3893660af71",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c47e3b35-2a6e-4e42-9f04-3db7ce8d2782",
+        "date": "2026-02-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "No Bookings"
+    },
+    {
+        "id": "ba7670ef-cf7e-4c4e-ab45-1604e64f1ae4",
+        "date": "2026-02-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not working"
+    },
+    {
+        "id": "9843ff22-ff53-4525-a522-bf2edc568a63",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nace app"
+    },
+    {
+        "id": "8f7462d7-6b32-4dff-b460-d00460cfe4ea",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "566efb6e-6ccd-4492-8775-a3ae2f1bce2a",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "389af787-9449-4775-8d2e-1d8063df845f",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2d8cd617-6832-4f92-8568-3d3f121f3cb1",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "friend app"
+    },
+    {
+        "id": "2774c3e0-d9c8-43ca-836d-0b3bd300612d",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "supar"
+    },
+    {
+        "id": "269ef7cd-8a7d-4e49-bde7-d1138d845705",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "okay good"
+    },
+    {
+        "id": "198ec16d-95af-43bf-a909-d8042e69b4f0",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "its Happy",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "1980109e-ab36-4ca0-aa6e-6eba56183376",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "cf2bfe93-e534-4374-ada8-f5c95ef047bb",
+        "date": "2026-02-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "bad",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "c510a194-d5b7-4e96-92b5-742455ba292e",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c234ee70-6037-4f2c-b326-655574a31349",
+        "date": "2026-02-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "bad"
+    },
+    {
+        "id": "8e032b94-bac9-4ee3-9b35-98872da25410",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best apps",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "7ba73caf-d040-4126-b256-5144b38664cd",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "74ad3961-1c4e-47a2-b78f-0a23c0d35791",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5e028d32-416a-4163-aaac-f0d14aa63ac1",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "502da63a-b41e-4bc7-b028-d92cfd22cef5",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "0f211652-a451-4e02-bcdc-901d27c90a89",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
         "id": "f058af7c-38af-4af2-bc17-06207f4970ee",
         "date": "2026-02-13",
         "score": 5,

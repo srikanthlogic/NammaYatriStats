@@ -1,5 +1,165 @@
 [
     {
+        "id": "c8a208d8-7a19-47b5-a779-76d548ea29f0",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "806a6a2b-91cc-4579-aa38-a2d355ff0f34",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank"
+    },
+    {
+        "id": "6a220a38-efa9-4b1a-b866-c291331edea6",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "please add map preview feature like Uber. So that we can understand the route before accepting the order."
+    },
+    {
+        "id": "c36b1903-2e80-496e-b748-ce0adb804cf0",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "wow"
+    },
+    {
+        "id": "aad849bf-1f93-48fd-a654-e0e53331ec25",
+        "date": "2026-02-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the wrost app I have ever seen"
+    },
+    {
+        "id": "31d12bdd-262c-499d-adff-a6d6e344c431",
+        "date": "2026-02-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3adb056d-552e-40ee-af31-8ae77f65d4ac",
+        "date": "2026-02-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "location is not perfect maney times"
+    },
+    {
+        "id": "e094617a-047a-43cd-824c-bfcf9a224528",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "happy"
+    },
+    {
+        "id": "b105dd79-f5c0-4517-98e9-d12dab1a6124",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "29315d8e-1612-4bd7-bedd-99af34dcc5e5",
+        "date": "2026-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good vey very lm"
+    },
+    {
+        "id": "d8b1ca3e-a070-49ab-9c5b-8848d3d3f536",
+        "date": "2026-02-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "bekar app mobile hit bahut karta"
+    },
+    {
+        "id": "b56337da-cf55-4e1b-8c0e-eb009d76b8db",
+        "date": "2026-02-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Always lesser",
+        "vaf_never_display_easy_to_use": 2,
+        "vaf_never_display_positive_impact": 2,
+        "vaf_never_display_app_description": 3
+    },
+    {
+        "id": "7ce6e79f-a8ad-46fe-8e4e-b85327b52a68",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "supperb"
+    },
+    {
+        "id": "74f06a09-6323-4707-91fb-50c5e5d3c7e8",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "70305a37-4ab0-482d-a6ba-f8303aecdf51",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "6c791324-6150-4ff5-9f01-719f2cdb3f3d",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udc4d atri sathi"
+    },
+    {
+        "id": "ac3cbed4-6188-425c-b578-789cb2c85e50",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "9f78acf2-31bb-4b2f-b2c7-a0f916f10bc9",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very very good apps of all yatri sathi driver pertnar",
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_visually_good": 1,
+        "vaf_never_display_disruptive_ads": 2
+    },
+    {
+        "id": "25efb763-2f9f-4924-be9e-cd1e390824bb",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best earning platform app",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
         "id": "289d4c22-2766-4137-9b23-b05306084b89",
         "date": "2026-01-05",
         "score": 5,
