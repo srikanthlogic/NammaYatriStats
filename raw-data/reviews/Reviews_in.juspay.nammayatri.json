@@ -1,5 +1,237 @@
 [
     {
+        "id": "e002ac96-697c-4bff-84e9-e4d66b587256",
+        "date": "2026-02-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "ba12ba59-8f39-41fa-b96a-fbab49c515fa",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "why the app is not opening?"
+    },
+    {
+        "id": "9c1353c8-cba3-4be1-9a67-0e5df689730c",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "7332af00-46e8-415d-bd0e-159f59841280",
+        "date": "2026-02-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "download problem"
+    },
+    {
+        "id": "6f2599ac-6602-4326-afa5-48e8998dbbef",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fast sarvice"
+    },
+    {
+        "id": "6a5aec63-afae-4d00-a9fc-b4d8fd573dab",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "33f51414-61f7-49e8-935f-036029acd7ee",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "User friendly and quick service"
+    },
+    {
+        "id": "25b12690-bb65-4ed4-b347-e3722519235f",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Reliable,Fast,Trust"
+    },
+    {
+        "id": "1f839c1f-7404-4b56-a9a9-7c104e4edde9",
+        "date": "2026-02-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "map is not showing correct location, paid extra money"
+    },
+    {
+        "id": "1b879fec-bdf0-4b12-ae3f-0d914bb40f70",
+        "date": "2026-02-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "can't even properly select pickup or drop location if booking for someone else"
+    },
+    {
+        "id": "16ef45b2-edb5-46da-abfa-26e69acf130a",
+        "date": "2026-02-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good app. few UX bugs as on 27feb2026 Message Driver is over the vehicle details and obstructing vehicle number. 'Live' page should be the default page when there is an active booking. Opening the app and not finding the ride just booked is terrifying \ud83d\ude15."
+    },
+    {
+        "id": "0a95a98f-50b9-40f5-bab4-85e19c240991",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice person"
+    },
+    {
+        "id": "f297121d-bc72-41dc-9d46-91b2f8c76efa",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good\ud83d\udc4d"
+    },
+    {
+        "id": "ee2029c8-8ee8-408f-b144-f24876230e51",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe ride"
+    },
+    {
+        "id": "b185ffc8-7833-4d0b-9870-6244b120a50d",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "4a69ee4a-0e22-4dbf-81c4-bb8e29cee0ec",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app for people and people refering this app because it's charge low the rapido and uber."
+    },
+    {
+        "id": "454463ed-55d7-4e0a-99d7-f26450263908",
+        "date": "2026-02-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "it's a very good and useful \ud83d\ude42"
+    },
+    {
+        "id": "3d03559f-4d74-401e-9081-209e1a999ab9",
+        "date": "2026-02-26",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Affordable service, but though driver will be far from pick up (evidently can be accessed in app) Waiting time starts posing additional charge on customers without their mistake"
+    },
+    {
+        "id": "08f10195-c2be-4ea4-a754-ddb954f429f0",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "e2ccae0a-3057-4042-a211-ef170c45838e",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "d7f8127e-fe3f-43a9-b5a6-20cfcad1b74a",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4csuper very very very good"
+    },
+    {
+        "id": "aa261b43-d16b-4514-84dc-252f67df5693",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "9eb2c060-5655-4717-bcb2-5b4bc2c312fe",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "9a65a95b-5acb-4e01-8dd8-b7479e5e3a90",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best namma app to travel in Bangalore"
+    },
+    {
+        "id": "56440723-ffdf-40f1-be43-160b06b2f127",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe ride"
+    },
+    {
+        "id": "23799c69-e1a2-4486-aba2-ba5c4022350e",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok sir"
+    },
+    {
+        "id": "1f01cd59-3617-4964-9506-4bece48b0957",
+        "date": "2026-02-25",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "some time rides are not available."
+    },
+    {
+        "id": "15cceae5-3175-4bf2-bc62-24a45ddcdec7",
+        "date": "2026-02-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "warst service"
+    },
+    {
+        "id": "0b2eb866-59c5-489b-b5b2-3b0231e7ac21",
+        "date": "2026-02-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "\u0cac\u0cc1\u0c95\u0cbf\u0c82\u0c97\u0ccd \u0cae\u0cbe\u0ca1\u0cac\u0cc7\u0ca1\u0cbf \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cb8\u0ccd\u0ca5\u0cb3 \u0c95\u0cc6\u0cb2\u0cb8 \u0cae\u0cbe\u0ca1\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0cb2\u0ccd\u0cb2 \u0ca6\u0caf\u0cb5\u0cbf\u0c9f\u0ccd\u0c9f\u0cc1 \u0c93\u0cb2\u0cbe \u0c89\u0cac\u0cb0\u0ccd \u0cb0\u0ccd\u0caf\u0cbe\u0caa\u0cbf\u0ca1\u0ccb \u0cac\u0cc1\u0c95\u0cbf\u0c82\u0c97\u0ccd \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 \u0caf\u0cbe\u0ca4\u0ccd\u0cb0\u0cbf \u0c95\u0cc6\u0cb2\u0cb8 \u0cae\u0cbe\u0ca1\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0cb2\u0ccd\u0cb2"
+    },
+    {
         "id": "f3353f70-d4a7-43a6-9198-f103ee836f70",
         "date": "2026-02-24",
         "score": 2,
