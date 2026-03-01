@@ -1,5 +1,271 @@
 [
     {
+        "id": "fed451b9-aaa6-4e82-a139-334ec630977b",
+        "date": "2026-02-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "eaf74cce-1b48-449d-a46f-0e65abb47f14",
+        "date": "2026-02-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "d9f8bade-fca7-4376-a074-d1b57b931893",
+        "date": "2026-02-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "is good"
+    },
+    {
+        "id": "ac2c4388-9030-4b03-b1a2-8a277d45bca7",
+        "date": "2026-02-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "54ba7240-f55c-4239-b91d-601277764bf7",
+        "date": "2026-02-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "549aeb61-a1a2-4332-9afc-90613dcfe0a7",
+        "date": "2026-02-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "app not working"
+    },
+    {
+        "id": "e3ebebe9-e3c7-4e30-be2b-3fbdae83b925",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice App"
+    },
+    {
+        "id": "cb53c135-69d0-4816-acb7-5984e3d1c92d",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "bcd0f368-ca36-4af5-a527-e627ef088d85",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9dd792dc-6439-4727-963d-bba5e9e14c20",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "j very good"
+    },
+    {
+        "id": "775fedd7-abe2-4e41-8db3-b542e77f80f1",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "7739da11-1ec9-4b86-b38a-240f656842cd",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome \ud83d\ude0e\ud83d\udc4d\ud83c\udffb great \ud83d\ude03\ud83d\udcaf parfect"
+    },
+    {
+        "id": "7334e28e-aa9d-4fea-af2e-ae4d59932ac8",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d\ud83c\udffb"
+    },
+    {
+        "id": "2c0dd114-7921-48fc-879b-6ddcb7ffb8f8",
+        "date": "2026-02-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service \ud83d\ude4f"
+    },
+    {
+        "id": "f8aca239-c6f3-4003-ab6f-0a0f4cf651c5",
+        "date": "2026-02-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "frod company"
+    },
+    {
+        "id": "d57a4e63-5f1b-449a-bbcd-dcf12f74c765",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Friendly Happ"
+    },
+    {
+        "id": "c6c26043-bfaf-49be-a4ca-faf006954a4e",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super appa"
+    },
+    {
+        "id": "b5b52091-7d34-429e-bac5-6727423c80e3",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udcaf"
+    },
+    {
+        "id": "addd7af1-cfe0-4bb6-a068-b1241ffc83a9",
+        "date": "2026-02-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "No trips, no customers only advertisement, 4 months once one trip received, picup distance is long drop distance is short so sad......",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "8c40ee59-dffb-4d2d-9b70-0c49e7a74966",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "61a70a94-d130-4b1d-909d-b13273df8efe",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "2150033c-66c0-473b-8ec4-2e0a88311629",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "15f80a76-2ca6-436b-986f-b081ea27ac29",
+        "date": "2026-02-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent , make more publicity."
+    },
+    {
+        "id": "fa87d111-c183-4bda-b1ba-89b2b6b7bb5b",
+        "date": "2026-02-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "\u0ca8\u0cae\u0ccd\u0cae \u0caf\u0cbe\u0ca4\u0ccd\u0cb0\u0cbf \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cac\u0cc1\u0c95\u0cbf\u0c82\u0c97\u0ccd \u0c87\u0cb2\u0ccd\u0cb2 \u0ca6\u0caf\u0cb5\u0cbf\u0c9f\u0ccd\u0c9f\u0cc1 \u0c93\u0cb2\u0cbe \u0c89\u0cac\u0cb0\u0ccd \u0cb0\u0ccd\u0caf\u0cbe\u0caa\u0cbf\u0ca1\u0ccb \u0cac\u0cc1\u0c95\u0cbf\u0c82\u0c97\u0ccd \u0c85\u0cb3\u0cbf\u0cb8\u0cbf \u0c85\u0caa\u0ccd\u0cb2\u0cbf\u0c95\u0cc7\u0cb6\u0ca8\u0ccd \u0ca8\u0cae\u0ccd\u0cae \u0caf\u0cbe\u0ca4\u0ccd\u0cb0\u0cbe \u0c89\u0ca4\u0ccd\u0ca4\u0cae\u0cb5\u0cbe\u0c97\u0cbf\u0cb2\u0ccd\u0cb2"
+    },
+    {
+        "id": "d8065628-9bb4-4e6d-89a0-42c31bf6ab6f",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c"
+    },
+    {
+        "id": "b5b2e991-b90d-48e1-bea1-a9eb7bdce721",
+        "date": "2026-02-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "goodlook drivers"
+    },
+    {
+        "id": "9f2f61c4-77d5-401d-815a-5134e48fbefd",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u2764\ufe0f\u200d\ud83e\ude79"
+    },
+    {
+        "id": "91e36c78-4a5a-4ac4-ad19-72642df3c80e",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8435e523-2144-4f22-a1f3-1507ef29e1a4",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "375a868c-37f3-4530-b8f1-14f851554680",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "2ffc0039-9571-432d-be38-92a2874dbf67",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2e9fae11-9b12-4bf8-a56e-5200068056c0",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "034be9f2-46f0-4bcd-8eea-97342ba6c448",
+        "date": "2026-02-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
         "id": "f4d6e898-f06a-4df7-9117-9ad5e09ca2ca",
         "date": "2026-02-24",
         "score": 2,
@@ -22,6 +288,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "e6534192-d2fb-4d6e-848a-6782ac8be7da",
+        "date": "2026-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udc4d \ud83d\udc4f Super \ud83d\udc4c \ud83d\udc4d \ud83d\ude0d \ud83e\udd70 \ud83d\ude18"
     },
     {
         "id": "e03148a7-6703-417f-91e2-8b8ec42bd8c4",
@@ -94,6 +368,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good service"
+    },
+    {
+        "id": "064bf489-fa34-470b-94e3-ced44ecbab9e",
+        "date": "2026-02-24",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "rate not good"
     },
     {
         "id": "fc04ec98-ca7e-43fd-9335-315f6ebc1371",
