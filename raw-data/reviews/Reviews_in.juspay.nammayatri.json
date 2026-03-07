@@ -1,5 +1,466 @@
 [
     {
+        "id": "f36b8390-17c9-422f-ba13-99d68cc3fd78",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "ef166bff-ae82-43bf-a72c-ef4aa5170f91",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "felt safe along the way"
+    },
+    {
+        "id": "de2b38f6-9963-4927-8aa0-2d6750211cf1",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good and fast ride"
+    },
+    {
+        "id": "d02df833-6d61-41e1-b9c1-50595e0e6005",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Hi pool oh god blessing m\ud83d\udc90\ud83d\ude0di\u0cee9o\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\udc90\ud83d\ude0diijo"
+    },
+    {
+        "id": "6e2d9cfa-4d21-4eab-b2b4-6f921ef13697",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Dear Namma yatri please update your current problem solution if person is booking ride takin wrong location add for applicant"
+    },
+    {
+        "id": "66615cf8-9b77-49fe-a35a-244496712734",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "t\u2764\ufe0fu"
+    },
+    {
+        "id": "65b46d81-1b65-4052-a6e6-39a17e562c72",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Getting Vehicle very soon That's Great \ud83d\udc4d Keep the spirit high"
+    },
+    {
+        "id": "5d723ca6-b36e-4f53-9c2b-f71d71598ccb",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nam yatri is vere"
+    },
+    {
+        "id": "5c0f5a07-ea54-45b4-aadf-ca48f7c0858b",
+        "date": "2026-03-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "worth."
+    },
+    {
+        "id": "581021d3-6c85-490e-92be-745c3e4aa395",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "duver was very good bebeh"
+    },
+    {
+        "id": "53e0f51b-c7f9-43bd-85c0-1cb256a81e4c",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "4cb1f6b6-e293-4d8c-8ea6-1f08860a2847",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "on time good"
+    },
+    {
+        "id": "316ff03f-eac0-4494-8bed-bbb9025c4d99",
+        "date": "2026-03-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "goog"
+    },
+    {
+        "id": "0c883a45-130f-49a6-9dd0-82506d8a16be",
+        "date": "2026-03-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f925a05f-220e-47a7-b633-2cfb1ab7e2c6",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super super"
+    },
+    {
+        "id": "ef9b9cb7-8e17-4e96-b0d8-0d68a21a6d71",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "open meter not working past one month."
+    },
+    {
+        "id": "e858a25b-5a9a-4ad7-9dac-c4ee0df6c11a",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very Quick service and they don't demand extra fare for booking the service."
+    },
+    {
+        "id": "e507ab05-7d7a-495f-a90a-e7af61eaada0",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "cc1f693a-4090-4dc6-a1a8-3b02c552d6c4",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b9af371c-a118-4f7d-b025-99ed2c12f281",
+        "date": "2026-03-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Charges too fair for short distance & when i anyone give negative feedback they just delete it thats why this app rating is high",
+        "vaf_never_display_spend_more_time": 2,
+        "vaf_never_display_difficult_to_use": 2,
+        "vaf_never_display_visually_bad": 2
+    },
+    {
+        "id": "b5d75c42-62f6-43ce-8054-46637efb15bc",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9a82714b-e943-4188-a9ce-f8a28527fb37",
+        "date": "2026-03-05",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "What's the use when no driver is willing to pick up when we need it the most. We choose to take an auto/cab because of parking issues etc. And if no one wants to take the ride to the destination, then there's no use. Almost every time I have tried to book an auto/cab, I have ended up driving my car myself because I couldn't get a ride."
+    },
+    {
+        "id": "97fba1f9-cc3c-4fd5-80ee-5ff668811c16",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "8ee8de0f-a50a-4694-a032-e37b958f87c9",
+        "date": "2026-03-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "safe drive"
+    },
+    {
+        "id": "83411306-fe2d-4cde-9106-12118a237dbe",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fare"
+    },
+    {
+        "id": "63d92d95-94c9-4ed4-bbb9-d2d06127550d",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "much better than Ola. Completely forgot Ola after using Namma Yatri"
+    },
+    {
+        "id": "55debf85-4c8c-41ef-b70f-9dba2fa85b53",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "38825d11-65b6-4319-8085-61de579ed705",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "True navigator for Bangalore city rounds."
+    },
+    {
+        "id": "2156b06f-6d69-4daa-8446-69ab69c1ba0c",
+        "date": "2026-03-05",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "your application should inform the correct location for pickup"
+    },
+    {
+        "id": "1daf669f-2629-4905-8f2d-8b8c0a32d057",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice work"
+    },
+    {
+        "id": "14b3aafc-3345-4d9e-a1c9-08304350493e",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "10f90f1f-2355-4792-acb9-9036bb96658d",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "020fea7b-5497-4fdf-96b3-a212f33ea9db",
+        "date": "2026-03-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e11fe83e-cd9a-4f91-8a50-63bfa329f15a",
+        "date": "2026-03-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "d1e6f879-5943-4d8a-a8ec-28b3669f7610",
+        "date": "2026-03-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb"
+    },
+    {
+        "id": "ce28edab-2a59-4d39-b3e5-12697b2b1e62",
+        "date": "2026-03-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very disappointing experience with Namma Yatri. The pickup location I selected while booking the ride was not the same location that was sent to the driver. Because of this mismatch, the driver went to a completely different place, causing confusion and delay. This wasted both my time and the driver\u2019s time. A ride-booking app should at least get the basic function of location accuracy right. Very unsatisfied with this experience."
+    },
+    {
+        "id": "c85ee1e9-01f2-432f-a54c-6ddc94792c08",
+        "date": "2026-03-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "usefull"
+    },
+    {
+        "id": "4bb6e7c5-02b2-49b6-a26d-1e5f6bbd27d0",
+        "date": "2026-03-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "broke"
+    },
+    {
+        "id": "10dadcc2-1834-47e2-8c5a-517c34dce3ab",
+        "date": "2026-03-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "dcf49e1d-4645-4f4e-a2d2-8422b1cf9dc3",
+        "date": "2026-03-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent Price excellent app super"
+    },
+    {
+        "id": "cd2593e8-c85f-4e53-ad1f-4f65e4d1efc2",
+        "date": "2026-03-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's a wonderful service and also is good because auto driver has this app is very good"
+    },
+    {
+        "id": "a32f531e-e18e-4d28-b5e0-593117939e47",
+        "date": "2026-03-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "9a811f22-3a60-498a-bae7-0a31a096f7b3",
+        "date": "2026-03-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Awesome"
+    },
+    {
+        "id": "6f4b8266-d2e8-4622-aee4-7dee227bd68d",
+        "date": "2026-03-03",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "waiting time starts before the arrival of the Auto so that the fare increases"
+    },
+    {
+        "id": "4cb292de-67f7-4e6f-ab2e-38d77e3be029",
+        "date": "2026-03-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service and value for money."
+    },
+    {
+        "id": "3bcf113a-249c-4973-968e-1c8b8a757a4f",
+        "date": "2026-03-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "d3ea0dae-674d-4514-8751-e48276ceee2c",
+        "date": "2026-03-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "idiot driver left my age parents and handicap husband on road ..he said vehicle is off ..took money ..and ran off .. disgusting service from namma yatri..also no where we can complaint on app"
+    },
+    {
+        "id": "cc4ac7c2-354b-46fd-8d6c-d3e6272ec89d",
+        "date": "2026-03-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good \ud83d\udc4d"
+    },
+    {
+        "id": "c795ba88-a6c9-4af2-8c23-740a013865a3",
+        "date": "2026-03-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "7f49e2bd-c3b4-45c5-9eea-ff30c2dbd93b",
+        "date": "2026-03-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "more safety and useful app"
+    },
+    {
+        "id": "5ea73d2e-969b-4a83-89fe-5d1579f2fc72",
+        "date": "2026-03-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "5715524e-5ffb-40f0-9e11-a6e7c6196e71",
+        "date": "2026-03-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good but location needs to be updated"
+    },
+    {
+        "id": "4172b074-9bdc-4e24-995b-1616f41befea",
+        "date": "2026-03-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "3a3391ad-274e-440a-b828-4fce7a9020f3",
+        "date": "2026-03-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "App is the shittiest. Fix your map and navigation. showing longer routes to justify your high prices is not beneficial to us. we know you charge high. At least let us reach our destination at ease and in time.",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "1fc0a9e6-c377-4eb0-831c-3c1efcf2e749",
+        "date": "2026-03-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "134be57c-23a4-4907-b3f0-a4b5a3b9921d",
+        "date": "2026-03-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe and security"
+    },
+    {
+        "id": "0da40cb2-2d3f-4ee0-9fbd-e85b08c9a19c",
+        "date": "2026-03-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
         "id": "f5a823af-3608-4748-89e6-1699eb59ca75",
         "date": "2026-03-01",
         "score": 1,
@@ -54,6 +515,14 @@
         "scoreText": "5",
         "title": null,
         "text": "\ud83d\udc4d"
+    },
+    {
+        "id": "03ee747f-7706-49c9-a4a5-dfce9c72fbe6",
+        "date": "2026-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0ca8\u0cae\u0ccd\u0cae \u0caf\u0cbe\u0ca4\u0ccd\u0cb0\u0cc6 \u0cb8\u0cc2\u0caa\u0cb0\u0ccd.. \ud83d\udc4c"
     },
     {
         "id": "c15dfacf-4f13-4da7-9749-0c5d92d7976a",
