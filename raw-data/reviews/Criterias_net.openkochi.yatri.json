@@ -1,4 +1,7 @@
 {
+    "vaf_app_quality_stability": 1,
+    "vaf_app_quality_battery_efficiency": 1,
+    "vaf_app_quality_visual_appeal": 1,
     "vaf_never_display_ads_experience": 38,
     "vaf_never_display_ease_of_use": 39,
     "vaf_never_display_considerate_of_time": 2,

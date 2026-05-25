@@ -1,4 +1,7 @@
 {
+    "vaf_app_quality_ads_presence": 1,
+    "vaf_app_quality_usability": 1,
+    "vaf_app_quality_visual_appeal": 1,
     "vaf_never_display_spend_more_time": 6,
     "vaf_never_display_content_language": 8,
     "vaf_never_display_negative_ads_impact": 8,

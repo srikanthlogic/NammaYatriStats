@@ -1,5 +1,24 @@
 [
     {
+        "id": "95d60a29-542d-4ddd-93d1-38a0e4c9cb5a",
+        "date": "2026-05-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "hopeless app for ride near udupi.. no driver response for booking beyond 5kms range.. don't expect a booking outside city areas..",
+        "vaf_app_quality_stability": 2,
+        "vaf_app_quality_battery_efficiency": 2,
+        "vaf_app_quality_visual_appeal": 2
+    },
+    {
+        "id": "c5cc6ea3-86b8-4ef1-a421-249d5df44606",
+        "date": "2026-05-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "waste of time"
+    },
+    {
         "id": "0c666b86-868b-4f2c-b609-4982f1a50822",
         "date": "2026-02-26",
         "score": 1,

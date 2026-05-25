@@ -1,5 +1,336 @@
 [
     {
+        "id": "b8756fa1-c615-4843-94ae-e44fc1a2a063",
+        "date": "2026-05-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bed experience....one I took a ride ...driver was so unprofessional...took me to wrong route ...behaves rudely with me ...it's delayed my journey ....when I asked him ...why u r driving like this .. No reply from his side ... I suppest the app owner to close this app forever"
+    },
+    {
+        "id": "a4b1045f-9858-42b3-9abc-0b6f681161bb",
+        "date": "2026-05-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "9e5b8089-0203-459b-959a-5c084de97a38",
+        "date": "2026-05-24",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Cab booking feature works well, however bus tracking feature is not good, can't input source and destination stops in there and hence can't see the route.",
+        "vaf_app_quality_ads_presence": 2,
+        "vaf_app_quality_usability": 3,
+        "vaf_app_quality_visual_appeal": 3
+    },
+    {
+        "id": "7b6d08d4-8e57-433c-8f0b-962abf6f6b60",
+        "date": "2026-05-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "656ca665-e724-470a-80d2-f986d77a240d",
+        "date": "2026-05-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "49367268-19dc-46cb-a300-6797c780d5ee",
+        "date": "2026-05-24",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "very bad the driver wanted a hefty amount from me and took me to police station to arrest me for not giving the money\ud83e\udd23"
+    },
+    {
+        "id": "398c65a0-b09e-4ea1-bfa2-8a3e94675e0a",
+        "date": "2026-05-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "verry good"
+    },
+    {
+        "id": "2ec1969c-5417-4d78-98c3-d13d36256b30",
+        "date": "2026-05-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Useful & reliable \ud83d\udc4d"
+    },
+    {
+        "id": "dce677ec-8ef9-424e-b69c-d1f26a87a56a",
+        "date": "2026-05-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "please be available at big stations like Howrah, Sealdah, Shalimar, Santragachi & Kolkata..."
+    },
+    {
+        "id": "dbe2c921-f680-442a-8c8d-369ac0468f5a",
+        "date": "2026-05-23",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "CarAC is very unsatishfactory! Even at morning not felt comfort though driver tried to lowerd the tempararure!!!"
+    },
+    {
+        "id": "d9780425-8c91-4be1-bc09-f3566f827d7b",
+        "date": "2026-05-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good drive"
+    },
+    {
+        "id": "8ffb689d-f54a-42ad-b2e5-071f5f80701d",
+        "date": "2026-05-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "reasonable price"
+    },
+    {
+        "id": "524e4d7c-0138-42d1-b850-c914d409dbe5",
+        "date": "2026-05-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very gool"
+    },
+    {
+        "id": "d3b7d1bf-b9b9-4887-8a62-506de60036d0",
+        "date": "2026-05-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good to ride."
+    },
+    {
+        "id": "969fcb11-3717-4f6a-aeb2-e858bf0fd166",
+        "date": "2026-05-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app"
+    },
+    {
+        "id": "95d9ac82-fb65-4bd8-a266-d2b7c8fce435",
+        "date": "2026-05-22",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "goos."
+    },
+    {
+        "id": "95496ccb-267c-48f3-84bc-ed6bab26707b",
+        "date": "2026-05-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice aap."
+    },
+    {
+        "id": "8c7a90a6-e314-45d4-a648-b2dabefe292d",
+        "date": "2026-05-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "3d26f122-7ed3-4b9c-b20c-b1db8564bb1f",
+        "date": "2026-05-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "28afb132-dafb-45ea-9a57-040c06a5558c",
+        "date": "2026-05-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "19c01777-3f7c-44b0-b23a-2b6641f10d76",
+        "date": "2026-05-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best yatri app"
+    },
+    {
+        "id": "13e60f53-1d7d-464b-8ee9-54fd595d5e9f",
+        "date": "2026-05-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "f7903e3f-bc04-4ef4-8db5-6053b56e8ffc",
+        "date": "2026-05-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service. I like it."
+    },
+    {
+        "id": "9a54efe1-26a4-4048-b129-ebc571ff3383",
+        "date": "2026-05-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Very good .\ud83d\udc90\ud83d\ude4f"
+    },
+    {
+        "id": "8f3198c8-4e79-4324-8656-112cb1570673",
+        "date": "2026-05-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good experience"
+    },
+    {
+        "id": "7166869e-cb6b-4cb3-b301-226c472927a8",
+        "date": "2026-05-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice man"
+    },
+    {
+        "id": "6562ef71-70c7-407c-9e44-ee8bb6bbefae",
+        "date": "2026-05-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "4bdf3ec4-a602-4395-b8c8-688b09542ad6",
+        "date": "2026-05-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad, disignated vehcle not arrived, i booked an auto but instead toto came, and price was charged as per auto, and toto ride is very uncomfortable especially in indian road."
+    },
+    {
+        "id": "26809220-b9ad-4dc8-9f7e-e19e9562bf82",
+        "date": "2026-05-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice App and service's"
+    },
+    {
+        "id": "cd2c2969-8ee7-4857-938c-4e41ecfa46a8",
+        "date": "2026-05-20",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "not available car"
+    },
+    {
+        "id": "af737f83-fe50-470a-bda5-144b238fa059",
+        "date": "2026-05-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "a6d7cd66-a720-4bed-9a84-25fa87a63ff1",
+        "date": "2026-05-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service on time"
+    },
+    {
+        "id": "a13d2af8-02c6-4ada-901b-bdc04b3bbbd8",
+        "date": "2026-05-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "6c22af19-a21b-4be1-ba5f-0d48d5962a18",
+        "date": "2026-05-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome"
+    },
+    {
+        "id": "622a481f-934d-4adb-aaf7-33f1010534d5",
+        "date": "2026-05-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3ae02642-ca15-4522-b32e-2411b953de78",
+        "date": "2026-05-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "drivers always want extra money too much bad service yatri sathi"
+    },
+    {
+        "id": "2ffbd8ed-9282-4dc6-b8a7-edc234e1de29",
+        "date": "2026-05-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service \ud83d\udc4d"
+    },
+    {
+        "id": "189a4627-64fe-496a-8bb1-a9112ed3b383",
+        "date": "2026-05-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d0b91f1f-bf88-4c82-9e9d-8ae776f45f3b",
+        "date": "2026-05-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b14e106b-7b51-4b38-b4df-325466d334ff",
+        "date": "2026-05-19",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "i am not comfortable this app"
+    },
+    {
+        "id": "54fca57b-7dfd-49e3-a3a5-4a683df831ff",
+        "date": "2026-05-19",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "548a1b69-6818-4d19-b032-e544bbe85253",
         "date": "2026-04-28",
         "score": 1,
