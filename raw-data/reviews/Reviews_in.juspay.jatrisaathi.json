@@ -1,5 +1,104 @@
 [
     {
+        "id": "b1873e20-e786-406a-b2b8-baadaf967501",
+        "date": "2026-06-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The app works well, but I am disappointed with the driver's behavior. After I booked the ride, the driver, Amal Das, called me and asked for an extra amount of money. When I refused, he said he would not proceed with the trip and asked me to cancel the booking myself. As a result, I had to book an Uber for my journey. This was my first experience with your service, and unfortunately, it was very disappointing.",
+        "vaf_app_quality_visual_appeal": 1,
+        "vaf_app_quality_performance": 2,
+        "vaf_app_quality_ads_intrusiveness": 3
+    },
+    {
+        "id": "bd1992eb-9e52-40e5-82c7-a3956b534853",
+        "date": "2026-06-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good driver."
+    },
+    {
+        "id": "9d5fe09d-c7ca-4b99-a3bf-a5e4d8db818c",
+        "date": "2026-06-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent driver."
+    },
+    {
+        "id": "7fde8190-6183-4030-99d4-adcc7cc3b390",
+        "date": "2026-06-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "1 months no bookings why"
+    },
+    {
+        "id": "85300b23-08dc-4b84-b09e-976babcae4d7",
+        "date": "2026-06-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "2ce4c976-469c-47bf-af51-e844d3d1b678",
+        "date": "2026-06-09",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Always not available,especially during the pick hours.Many times suffered for this reason."
+    },
+    {
+        "id": "e5b4f0c4-19ed-4c96-8f97-5c67f6098a18",
+        "date": "2026-06-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service,"
+    },
+    {
+        "id": "b72fac49-d0b2-4a17-baa2-f7cadae9f6cf",
+        "date": "2026-06-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8c826f7b-30cb-458a-92ff-43723a458d23",
+        "date": "2026-06-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very helpful"
+    },
+    {
+        "id": "6a31cbcd-2346-42f0-bb02-6e007aef43ef",
+        "date": "2026-06-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Rides take long to confirm and charges cancellation fees even when it's the driver's fault."
+    },
+    {
+        "id": "4775f669-0c33-4dfb-9c10-c47256a8c9c6",
+        "date": "2026-06-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "d11607de-319e-474a-9d51-3d1cdb227739",
+        "date": "2026-06-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "b8756fa1-c615-4843-94ae-e44fc1a2a063",
         "date": "2026-05-24",
         "score": 1,
