@@ -1,5 +1,187 @@
 [
     {
+        "id": "fd4c1a14-a0f5-4516-a11e-dae7d443a6c7",
+        "date": "2026-07-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "3x costlier than uber and rapido. doesn't help."
+    },
+    {
+        "id": "f53f228c-777e-4c3c-a8d2-bcec02c819c0",
+        "date": "2026-07-11",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "not working properly"
+    },
+    {
+        "id": "bec65ac1-a1c3-4f0c-a9be-5dd26abfe36c",
+        "date": "2026-07-11",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "app doesn't show ride details, but drivers calling and asking to cancel"
+    },
+    {
+        "id": "832dbe69-e8b2-4e30-afed-97d794579109",
+        "date": "2026-07-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "no use for emergency very very worst. m"
+    },
+    {
+        "id": "66c27e8c-ab49-4820-92bd-0f2b2be291f3",
+        "date": "2026-07-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "They do not have a bike to ride."
+    },
+    {
+        "id": "523cd030-d8e3-4be9-bef2-e488fd07d835",
+        "date": "2026-07-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "dfb6e680-9310-46dc-bd33-6c7b23346e94",
+        "date": "2026-07-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Recently The app picked up the wrong side of the road at Goraguntepalya Metro Station, even though my location services were turned on. The driver arrived 10 minutes late and I was wrongly charged a waiting fee."
+    },
+    {
+        "id": "dda0e201-2ad3-4385-8edb-4e75afdc3cef",
+        "date": "2026-07-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "what a great experience. it's been 20 days yet their 24hrs is not completed. Not waiting anymore to get refund of Rs 43"
+    },
+    {
+        "id": "d04f0a78-58fd-4493-8d16-a8524fd879f8",
+        "date": "2026-07-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "No cabs/autos accept ride unless you boost the search by paying Rs 30-50 extra over the quoted price. And sometimes the drivers ask for additional payment via the app chat feature, citing traffic as reason, otherwise they just cancel. Drivers are rude even when you pay extra. They don't turn on AC even when you book a premium AC cab."
+    },
+    {
+        "id": "c6ed3fd6-9827-4139-8d6f-68fb5b6892ef",
+        "date": "2026-07-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst service my last ride driver was very rude i had raised the complaint before also customer executive called and promised to solve the problem but no changes,,, kindly customer dont install this app worst service...",
+        "vaf_app_quality_performance": 2,
+        "vaf_app_quality_battery_efficiency": 2,
+        "vaf_app_quality_stability": 1
+    },
+    {
+        "id": "80125721-5d0a-4688-8798-6fa8a0bcd3bf",
+        "date": "2026-07-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The fare estimates on Namma Yatri are misleading. The app already shows a higher fare range than other ride-hailing apps, and after the trip, it almost always charges the highest amount. Recently, it has even started charging more than the estimated range shown before booking. Please make the pricing transparent and fair."
+    },
+    {
+        "id": "6b0530dc-ea0d-4087-911c-b5daca177c6e",
+        "date": "2026-07-09",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "auto never gets booked horrible app"
+    },
+    {
+        "id": "07499803-83e4-4531-a163-d1cab1eb1047",
+        "date": "2026-07-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I depend on Namma Yatri multiple times every day for my child's school, tuition, and activities. Every auto ride includes a \u20b920 pickup charge plus a \u20b910 driver charge, even for trips under 1 km. A 2 km ride before 7:30 AM, when there's barely any traffic, costs \u20b990-95. These charges add up and make regular users feel exploited. With Bengaluru's poor public transport, many of us have no choice but to rely on your service. Please stop overcharging the people who depend on it."
+    },
+    {
+        "id": "46830364-eda1-41aa-a0b4-b8c44303a50b",
+        "date": "2026-07-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app, even when the search is over , books autos randomly out of nowhere , pathetic app"
+    },
+    {
+        "id": "fc6a3f5e-08c4-4b5b-b501-e686ff1e99f1",
+        "date": "2026-07-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Today, I had a very disappointing experience with one of your drivers. I politely requested that he switch on the AC, but he responded rudely and spoke to me in an unacceptable manner. When I tried speaking in Hindi and then in English, he told me that if I use Namma Yatri, I must speak only in Kannada. I found this behavior very disrespectful."
+    },
+    {
+        "id": "fc5574d0-c020-41b7-bc27-ba02e0fd3dd1",
+        "date": "2026-07-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "this is worest application booking before one charged after dropping the location highly demanded application charges don't use this application. driver phone call talking and driving worest experience and namma yatri customer care not responding."
+    },
+    {
+        "id": "d7788cc1-19bf-4b3f-aebd-e983d0ddbd87",
+        "date": "2026-07-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "feedback on the 'boost your ride' thing. after I dismissed it, it looked like my search has been cancelled and I'm back to the main page. Which wasn't the case because I got a call from an auto driver soon after. could work on a more obvious search experience"
+    },
+    {
+        "id": "562e9bed-d8ef-4a2d-b148-9accb330c202",
+        "date": "2026-07-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Prices are Rs 100 higher than the original fares and more than their competitors' fares, and they also offer poor customer support."
+    },
+    {
+        "id": "1e4276d0-f997-4936-a11a-d043ad3d69f3",
+        "date": "2026-07-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "There is no option to complain about driver who for us to cancel the ride and then exploit us because we are getting late."
+    },
+    {
+        "id": "785450ec-a44e-459c-b546-0ff272a7674b",
+        "date": "2026-07-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb"
+    },
+    {
+        "id": "65556cfe-b67a-41e3-b844-bb06d549b3cf",
+        "date": "2026-07-06",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "the driver make us to wait without comming to our location and make us pay the waiting charge"
+    },
+    {
+        "id": "6198bb9b-4c78-42d1-b2a7-6d37d765a026",
+        "date": "2026-07-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I never got a ride through this app, most of the time the drivers cancelled the ride.",
+        "vaf_app_quality_battery_heat": 2,
+        "vaf_app_quality_battery_efficiency": 2,
+        "vaf_app_quality_performance": 3
+    },
+    {
         "id": "f5f8627b-e977-4e18-944f-64b2f9d7cf4b",
         "date": "2026-07-04",
         "score": 1,
