@@ -1,5 +1,421 @@
 [
     {
+        "id": "ef714bb1-2285-4ab0-93e7-fb377ed74ff2",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d1cff12a-cf56-424d-86d7-0b86016a8927",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "bc82b92c-f2c3-4fe8-be28-3120a45dc9a1",
+        "date": "2026-07-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Even if I am online all day, I do not get a single booking in Mysore city.\""
+    },
+    {
+        "id": "8f6e2bc1-d329-4904-ba18-40a44aecd124",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "7d180d4e-2967-4792-bfc0-e082142d6ba1",
+        "date": "2026-07-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Hello, Namaste. We SUV cab drivers are facing severe problems at the airport. There must be a clear and single rule: either put us directly into the queue, let us wait in the designated line, or issue a proper token. Right now, some drivers are given tokens while others are just pushed away randomly. This is highly unfair and incorrect. This ongoing issue needs to be looked into immediately, and a proper, permanent system must be put in place.\""
+    },
+    {
+        "id": "4c044673-20d7-40f1-b5e9-ea5f9281d354",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "4a1103c0-b892-4d28-b26a-6383897549b0",
+        "date": "2026-07-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "hello namaste, we suv cab drivers facing issue in airport queue line, there must be a clear and single rule either putt Direct into the queue,are give token properly very bad behaviour stoff and namma yatri"
+    },
+    {
+        "id": "4153a017-fdd0-48be-b8a4-4600c5e0af4a",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "well"
+    },
+    {
+        "id": "3b7ec546-0e6e-42d8-94bc-828e1982bf4e",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "3583f682-623b-430f-aadd-ab82bf587540",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "tank is Namitha"
+    },
+    {
+        "id": "33f817d5-bac0-40de-9e52-43f6b3b427a7",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "275ab9a5-bf31-490f-a1bf-93b6e846f900",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "19b0a9fb-5b5f-4ffb-b540-cf4e93acd5cf",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "173415aa-4e6b-4cbb-8ba2-aa6279b5b135",
+        "date": "2026-07-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "hello, pls... maintain proper xl cab queue system in Bangalore international airport, give token serial system or direct entry system, very bad staff maintenance also"
+    },
+    {
+        "id": "045c627b-4181-4902-b019-ba9b729517bb",
+        "date": "2026-07-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ffea453a-2f53-4870-a922-c79686c77362",
+        "date": "2026-07-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "f6dc7ee9-1a63-4008-9838-6cce4fbabe11",
+        "date": "2026-07-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "b37e6796-5cdd-464b-90c1-c0c005d4fd0c",
+        "date": "2026-07-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "69a21b29-9dea-42db-8e8b-d00081c7355d",
+        "date": "2026-07-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "65e2b001-a70d-4a96-a4a1-37807d2feb28",
+        "date": "2026-07-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank God"
+    },
+    {
+        "id": "4c3c1705-2a9a-4602-81f7-c0e3864dbb88",
+        "date": "2026-07-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "47d13c75-b2f3-4cbf-aed5-aeb82b8e6611",
+        "date": "2026-07-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice app i love this"
+    },
+    {
+        "id": "e535d027-1aa9-4b0d-bbae-425ffdf38e09",
+        "date": "2026-07-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "cbce53b4-5753-4841-89a4-7f4115819ba3",
+        "date": "2026-07-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Good"
+    },
+    {
+        "id": "ac89b0eb-bae4-4f30-8b32-d58c92a9b155",
+        "date": "2026-07-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8ce31163-99dd-4597-8c12-a5d6b66e187c",
+        "date": "2026-07-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "auto clicker application not working properly in this namma yatri apk why? please developer solve this problem"
+    },
+    {
+        "id": "4ce3f9cd-dc5f-43ae-850d-ed188fc12d91",
+        "date": "2026-07-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "451a87c4-2b12-41bc-8261-d9d12c9e1567",
+        "date": "2026-07-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience \ud83d\udc4d"
+    },
+    {
+        "id": "303d2c19-dd1c-48ae-8271-6b495d562c43",
+        "date": "2026-07-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc90\ud83d\ude4f"
+    },
+    {
+        "id": "30231dfb-f4b6-4a8d-97b2-33ca44ba0a55",
+        "date": "2026-07-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "2693a373-f314-451b-b980-c160a381ec1c",
+        "date": "2026-07-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "21d90fec-1f96-43a1-9b97-b11f65626a35",
+        "date": "2026-07-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app for drivers... coustomer support is good...price per km - the best in town...some glitch in app sometime(after accepting a order it'll disappear somewhere after we could not find ...after waiting sometime coustomer will cancel) .. please solve this issue.. other then this all good.",
+        "vaf_app_quality_battery_efficiency": 2,
+        "vaf_app_quality_ads_presence": 2,
+        "vaf_app_quality_performance": 1
+    },
+    {
+        "id": "ec5849c9-e6f0-42fe-93db-fbaade8f36f9",
+        "date": "2026-07-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d"
+    },
+    {
+        "id": "ea000e55-615a-4930-9894-39aab5022a4a",
+        "date": "2026-07-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not working properly.... since 4 to 5 days",
+        "vaf_app_quality_performance": 2,
+        "vaf_app_quality_battery_heat": 1,
+        "vaf_app_quality_usability": 1
+    },
+    {
+        "id": "e4097512-324c-4c20-a26e-93b244e8905a",
+        "date": "2026-07-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9581c176-9f3e-491e-9367-16811cb91d2b",
+        "date": "2026-07-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "@nammayatri troubling drivers"
+    },
+    {
+        "id": "e0d601b6-f782-4d9b-a1de-bfa03631e71c",
+        "date": "2026-07-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "bad"
+    },
+    {
+        "id": "c9e40fca-f944-47f4-89b7-8376a6d43937",
+        "date": "2026-07-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "tarriff if affordable \ud83d\ude4f\ud83c\udffb"
+    },
+    {
+        "id": "a927f314-d3ae-436c-89ac-65437be0b66c",
+        "date": "2026-07-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8f73ba57-db78-4e31-a140-a26edd25a07e",
+        "date": "2026-07-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3b3cb078-4538-47ba-b3ad-98c4c5253764",
+        "date": "2026-07-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2a007e98-9c6a-4fca-9a7f-0e287b25bf67",
+        "date": "2026-07-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "just wow \ud83d\ude32"
+    },
+    {
+        "id": "2579418c-db51-41ce-9d84-cc6700eebd7e",
+        "date": "2026-07-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "more update needed"
+    },
+    {
+        "id": "151d7ed0-0370-45cf-8f71-7c85ccffb942",
+        "date": "2026-07-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "1 km rides are not being counted, booking distribution is unfair, and suspected auto clicker usage is giving some drivers an unfair advantage. Please fix ride counting, ensure fair allocation, and take strict action against auto clicker misuse immediately as this is affecting genuine drivers\u2019 earnings."
+    },
+    {
+        "id": "06c5dceb-6500-4490-85c0-22fb962bb190",
+        "date": "2026-07-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "mast"
+    },
+    {
+        "id": "c558cb7b-4bb9-410e-8ad1-d92abb9b20ea",
+        "date": "2026-07-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b5e373d4-a052-41ab-b0bb-4069e54526d2",
+        "date": "2026-07-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "a45429ef-b0f6-4ab3-aa71-3a14dab48cb1",
+        "date": "2026-07-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app but no regular duty so sad"
+    },
+    {
+        "id": "98f61a21-d508-4cd2-8731-eeebe006c056",
+        "date": "2026-07-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst customer support service and booking accept option is worst..",
+        "vaf_app_quality_battery_efficiency": 1,
+        "vaf_app_quality_ads_frequency": 1
+    },
+    {
+        "id": "875890a1-28d0-4dfa-a525-b352c1ac9588",
+        "date": "2026-07-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "21280209-1c66-4a19-b3ab-b25b31181c09",
+        "date": "2026-07-11",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "a94a67c8-be84-4e1c-b7fb-215cfb217b08",
         "date": "2026-05-24",
         "score": 5,
