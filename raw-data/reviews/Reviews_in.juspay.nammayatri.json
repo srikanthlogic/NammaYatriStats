@@ -1,5 +1,277 @@
 [
     {
+        "id": "eee70075-21b0-4228-962d-e16f50302e67",
+        "date": "2026-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great"
+    },
+    {
+        "id": "cc598558-8d1e-4c97-89ca-68ca42ecdc9b",
+        "date": "2026-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "so good service"
+    },
+    {
+        "id": "bf16849b-5a79-4df5-aa50-7c232ab8d995",
+        "date": "2026-08-07",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "very slow ride"
+    },
+    {
+        "id": "b52f8279-5e89-4596-a0e2-f9484590f493",
+        "date": "2026-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "7d24bb87-6cc6-40bb-923a-e109e618d4c8",
+        "date": "2026-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "73b9b42d-ff7f-4170-866a-63b8c66ea334",
+        "date": "2026-08-07",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "I have experienced lot of times drivers charging more fare in the name of traffic jam, raining etc. This is natural and city's problem , passengers are not responsible for such issue. Secondly, drivers get stopped for filling CNG/petrol in between the trips. Namma Yatri should take this feedback seriously and instruct the drivers about do's and dont's."
+    },
+    {
+        "id": "5e23f5b3-e557-44b0-a783-3c32cd41379b",
+        "date": "2026-08-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good \ud83d\udc4d\ud83c\udffb"
+    },
+    {
+        "id": "5633e5cf-fd47-4944-8337-5c927b63c17c",
+        "date": "2026-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe journey on time"
+    },
+    {
+        "id": "25ebb823-1082-413a-a62f-16af48703c8f",
+        "date": "2026-08-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "My sister booked a cab, and the driver asked for an extra 80 rupees. He started abusing and locked the car door until the extra amount was paid. After paying extra, he also he kept abusing. Very bad experience with the app."
+    },
+    {
+        "id": "1181daae-97ce-4f4b-8e3c-c7a21f995954",
+        "date": "2026-08-07",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "doesn't accept even if it's for hospital"
+    },
+    {
+        "id": "08c18aad-7a82-4e9c-b3cd-dc566abbd860",
+        "date": "2026-08-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app not able to report issues"
+    },
+    {
+        "id": "dcb86368-fa58-45d0-8d5c-e1d196f05b2b",
+        "date": "2026-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c57f544e-1372-4f23-8da3-b2ff6b93784b",
+        "date": "2026-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c4771f83-ef96-4cd1-ba79-a7da95e9bf1b",
+        "date": "2026-08-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good application."
+    },
+    {
+        "id": "b356a473-d48f-4b3b-a2c5-41a63591e509",
+        "date": "2026-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "i had a miserable experience with Namma Yatri from BLR Airport to Whitefield on 4 Aug 2026. Staff promised a good, comfortable cab like Uber. Instead, the car body was dirty, seats were torn, and the AC was non-functional for the long commute. To make matters worse, the driver was extremely rude throughout the ride. Total waste of money and very uncomfortable. I will never use Namma Yatri again. Requesting management to inspect cab quality."
+    },
+    {
+        "id": "a772b665-0f5a-4e36-8ee9-ebbb373dbd2a",
+        "date": "2026-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a70d8b96-4e92-48c1-a81f-7c1c6b6c23ae",
+        "date": "2026-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "punctual and perfect driving"
+    },
+    {
+        "id": "995a884b-c385-4b76-af24-23390c0cff09",
+        "date": "2026-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "924b9732-9974-49a2-9587-7de36c63f67e",
+        "date": "2026-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Showing high price"
+    },
+    {
+        "id": "86b5b5c9-75b7-424f-a9c4-aebdc5555c90",
+        "date": "2026-08-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Nice App. The UI can be Improved better. Also if \"Book for\" Others option be added, just like Ola and Uber, it will be better."
+    },
+    {
+        "id": "81c44eb3-5953-41e3-b73d-f347efa58d4e",
+        "date": "2026-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "73f585df-361f-47d6-90db-9a84a138e1b7",
+        "date": "2026-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "09ff73d5-2693-49b6-8868-2cebf4c0bedf",
+        "date": "2026-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "df0ff26b-5ea7-40cf-b545-534313665614",
+        "date": "2026-08-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good in tmk for auto"
+    },
+    {
+        "id": "c5cc7c6c-e5b1-420b-9769-ec8d960c2957",
+        "date": "2026-08-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best ride"
+    },
+    {
+        "id": "9ad1ea49-dfeb-42e1-a7aa-881a44299a6b",
+        "date": "2026-08-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very safe app in all riders"
+    },
+    {
+        "id": "8bbe16f5-6fdc-4b0f-afc1-cc02841e5fb4",
+        "date": "2026-08-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8abd5867-a5c2-40cc-a6e0-e5593480fef5",
+        "date": "2026-08-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "its a scam, showing us a lower price and charging the highest possible price always"
+    },
+    {
+        "id": "77b1b1e1-beac-4a8d-8d25-46ae3d7c7995",
+        "date": "2026-08-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "compared to all the other transport apps I prefer namma yatri as a safe and money worth app it doesn't disappoint me at it \ud83d\udc4d\ud83c\udffb"
+    },
+    {
+        "id": "6cdfb06e-1ca6-4977-b164-50f1eb19e25f",
+        "date": "2026-08-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5f64d0b1-4b6d-41b3-abb7-9a1085377f4c",
+        "date": "2026-08-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The app gets hanged frequently, I've cancelled a ride, after 30 mins it got booked and the driver was rude leaving this app. I don't want to spoil my other day like this"
+    },
+    {
+        "id": "3557f96e-2e15-483a-9d83-b1e8958aab0b",
+        "date": "2026-08-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ontime drive"
+    },
+    {
+        "id": "12b885f7-8eaa-4bd7-8847-9ca88401e2e9",
+        "date": "2026-08-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Driver Mr Srinivas was very prompt in very short time. He picked us and reached us safely to the spot. I have travelled many a times by Namma Yatri and I recommend their service."
+    },
+    {
+        "id": "0a7d6234-072c-4573-ad00-20180b156838",
+        "date": "2026-08-05",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "The service is good, The issue with cab cancellation drivers is accepting the ride 1st then forcing us to cancel the ride.."
+    },
+    {
         "id": "ed502d69-7049-4168-9ddf-ce09d1f86c58",
         "date": "2026-08-04",
         "score": 5,
