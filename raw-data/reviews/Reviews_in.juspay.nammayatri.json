@@ -1,5 +1,687 @@
 [
     {
+        "id": "f1ed342a-f69d-4666-8e4f-5f6193952c87",
+        "date": "2026-08-22",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "cars are not booked in Bidar"
+    },
+    {
+        "id": "edd88204-8e13-456e-a141-962d08f1e976",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "tqu namma yatri"
+    },
+    {
+        "id": "e49c4ad2-3584-45c3-8108-60fced65ca83",
+        "date": "2026-08-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Horrible experience, no response on the payment management issues. Do not use their UPI lite feature, you can never use it or get it back."
+    },
+    {
+        "id": "e071335b-cc7b-44c6-aa9b-22e8c842abd0",
+        "date": "2026-08-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "When I tried to book a vehicle via your apps to attend a colleague's daughter's wedding reception, the fares were exorbitantly high. Furthermore, the unavailability of vehicles meant I was unable to attend the event. Do you people have no conscience? Apps that fail to help in times of need are akin to robbing a corpse or earning money by forcing the women of your own families into prostitution. May your apps face total destruction and ruin very soon.",
+        "vaf_app_quality_ads_intrusiveness": 1,
+        "vaf_app_quality_ads_frequency": 1,
+        "vaf_app_quality_stability": 3
+    },
+    {
+        "id": "e00562cc-06bd-4969-8e08-937613f3f0e9",
+        "date": "2026-08-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very poor customer care support. no way I can contact them if anything happens. two times I was over charged. but there was no way to connect with customer support. Both times charged extra due to the driver's fault. but it is not possible to report the same. be careful with this app.."
+    },
+    {
+        "id": "dd58b6cd-a865-459a-b423-e408d5b68486",
+        "date": "2026-08-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "specially for banglore but not work in banglore whenever we need the urgent auto then there is always unconfirmed rides. and add on money also demanded more money"
+    },
+    {
+        "id": "ab41fac8-8ca1-44f7-8e57-760022419355",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "a1d192d2-e8fa-4300-806f-2152f7dba4dc",
+        "date": "2026-08-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "too many updates and popupdms"
+    },
+    {
+        "id": "a10e8ad3-4c14-4906-afbc-14088397c27d",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driver"
+    },
+    {
+        "id": "9037735d-d600-401f-81a1-a27464a73bb3",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8c6ad632-07f5-4a0e-a3fc-4166b950d237",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "78c288dd-a563-4765-84d9-f99d89eab91d",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driver"
+    },
+    {
+        "id": "71b5d8e9-febe-4b24-b454-0c8491962e73",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "51d389f0-3ea2-480c-b042-a4ac1694de31",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "expert driving"
+    },
+    {
+        "id": "495675e2-1436-4f96-9103-53e244e52f51",
+        "date": "2026-08-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the booking has taken pick up and drop location same . it did not alow. me to update location . this is injustice on the part of traveller like me . and now I am forced to pay . I want refund of money"
+    },
+    {
+        "id": "4850654e-83b6-41d1-a57b-d9335e99e016",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "3cac8ee0-3e7a-4571-9e81-d7a53ce16066",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service thqqqq sooo much"
+    },
+    {
+        "id": "073081ae-8d45-4030-bceb-c999a5940048",
+        "date": "2026-08-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very user friendly"
+    },
+    {
+        "id": "efa97aa6-ac69-43f5-a327-45db24be2deb",
+        "date": "2026-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d\ud83d\udc4d\ud83e\udd1d"
+    },
+    {
+        "id": "ca6eafc8-5447-4a8e-a0ba-740440ab7e7e",
+        "date": "2026-08-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "when start in my city Dhampur Distt Bijnor Moradabad division"
+    },
+    {
+        "id": "c56a868f-cd3b-4689-bbca-5f4bb58aba29",
+        "date": "2026-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "this is really making some savings on my pocket so i can use that money else where. till now it was smooth experience with the app and drivers and in banglore it so well connected that I get a ride in mins \u263a\ufe0f TQ.. all the best teams. for developing such a thing in our own town.",
+        "vaf_app_quality_ads_presence": 3,
+        "vaf_app_quality_visual_appeal": 1,
+        "vaf_app_quality_ads_intrusiveness": 3
+    },
+    {
+        "id": "c00226e9-8d5a-42ea-ab25-fd96d38662c4",
+        "date": "2026-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very useful,convenient app!!"
+    },
+    {
+        "id": "bfcb7ffc-f4b5-45bc-9280-a67f853ec984",
+        "date": "2026-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "holl super"
+    },
+    {
+        "id": "bdd55a4d-c845-4772-af30-85ec86eec325",
+        "date": "2026-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I think one of the best app I found it very helpful app.we can book a ride for parents from distance even if their is any urgent situation. Great work .",
+        "vaf_app_quality_usability": 1,
+        "vaf_app_quality_battery_heat": 2,
+        "vaf_app_quality_battery_efficiency": 1
+    },
+    {
+        "id": "ae191ef2-e777-4f93-b5e8-83fbcaa13f66",
+        "date": "2026-08-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "a4e42ec5-93be-42dd-bc31-d34af65759fe",
+        "date": "2026-08-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\ud83d\udc4d"
+    },
+    {
+        "id": "74a69ebc-1646-4ab3-b221-ec949d3f12ba",
+        "date": "2026-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "73787eaf-cf48-4a79-a094-6f6824b9713d",
+        "date": "2026-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best price"
+    },
+    {
+        "id": "6fbbdfca-b7c0-4fec-93e7-3ab38aeefc33",
+        "date": "2026-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6dcdd27e-b3a8-42e9-a516-0c4700ca2240",
+        "date": "2026-08-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "49bc6fc9-997e-4928-9099-563d159325ad",
+        "date": "2026-08-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "NOT SAFE FOR WOMEN. I felt unsafe with the driver and asked to end the trip. He refused and the SOS call to service center also refused to help. Their call center said they can't help because they don't get a commission. I had to then call the police and they made him end the trip and I finally got my luggage out."
+    },
+    {
+        "id": "02b7f9e7-b1a4-45a5-af8b-c56a6da9b526",
+        "date": "2026-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best service"
+    },
+    {
+        "id": "f1c639b3-a24b-4e89-aa0d-7cd40e5ddcb3",
+        "date": "2026-08-20",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Fair to say not so fair. while booking, fare shows something and drastically gets increased while deboarding. a sudden heart attack on pocket and benk account... lol"
+    },
+    {
+        "id": "e8bd2418-c167-41ce-9b8f-11726ba5d42d",
+        "date": "2026-08-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It's too expensive compared to other applications"
+    },
+    {
+        "id": "de4a0dd7-6366-486a-ad0e-afa2becb5293",
+        "date": "2026-08-20",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "I have to pay extra charge for booking else they didn't take the booking in Bangalore..."
+    },
+    {
+        "id": "dbad4c6a-8e1b-4436-8875-42d64f097bf6",
+        "date": "2026-08-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "be53b1a4-8f32-4638-b831-803d968959d4",
+        "date": "2026-08-20",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "App is crashing upon opening"
+    },
+    {
+        "id": "af545dd8-c6cf-48b2-8d32-18066d39d258",
+        "date": "2026-08-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "prompt and perfect service."
+    },
+    {
+        "id": "5a2fdebf-af57-4806-ad8c-0fcc7344bd80",
+        "date": "2026-08-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "2daac4cf-088c-4379-890b-c47604c56dfd",
+        "date": "2026-08-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst service, all of a sudden prices got increased. And autos won't get booked arroround naganathapura, kasavanahalli and HSR area. really bad"
+    },
+    {
+        "id": "2c69fcd7-a742-4bea-8ac7-23344d8cc862",
+        "date": "2026-08-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "okay"
+    },
+    {
+        "id": "183c6a5d-97e6-4462-b095-0970bd642dcb",
+        "date": "2026-08-20",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "asking for extra fare"
+    },
+    {
+        "id": "053f2fbb-7db0-41bd-b3da-64eb2054b458",
+        "date": "2026-08-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "taking longer time for pickup for lowest price with out tips no body Accept your pickup.."
+    },
+    {
+        "id": "051998cb-4a14-4ebb-aa60-bdc3a89a3f70",
+        "date": "2026-08-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\ude0a"
+    },
+    {
+        "id": "e1e7773e-a759-4dd1-9a54-e6feaddb0b6e",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "supr"
+    },
+    {
+        "id": "d0663f06-c233-48de-bea6-593a41d4b8fb",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "cf481622-d71d-4fe7-b63e-ab0eb10c6cf1",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "can go for it",
+        "vaf_app_quality_usability": 1,
+        "vaf_app_quality_battery_heat": 2,
+        "vaf_app_quality_visual_appeal": 3
+    },
+    {
+        "id": "bacce3ca-06e2-4122-876d-9d28b18de542",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's convenient and reliable service provider. made in Karnataka."
+    },
+    {
+        "id": "ac7f5feb-4cf2-4484-b688-492240df4d7b",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "ac14e187-150e-4aa2-bb94-b2ef33cd7d38",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "5915ee91-e75b-41b8-8a9a-971afb1b3de3",
+        "date": "2026-08-19",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "57b5deac-880e-440e-bab1-696812029cc5",
+        "date": "2026-08-19",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "ok ok"
+    },
+    {
+        "id": "47ce2f74-11c0-4212-81b5-a9f44e739bf4",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best for quick ride"
+    },
+    {
+        "id": "467a2fd5-21f7-4c32-b99d-5341efe47fcc",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "36d17615-9da4-426e-84cb-b0b3d5050393",
+        "date": "2026-08-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The platform severely exploits customers by charging way more for mediocre service. while charging a flat commission for drivers it may help the driver fleet using the app, but what is point when customers get a pathetic service for higher price than competitors."
+    },
+    {
+        "id": "340f0668-ba26-4cc3-92a3-612961eb6e34",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "osm"
+    },
+    {
+        "id": "2718849c-93e1-43fc-997c-373e76630d39",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "1bb65c5c-084d-4d16-a8f0-9724636cc9bf",
+        "date": "2026-08-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very Disappointing Experience Namma Yatri auto service has become extremely unreliable. Earlier, I used to get autos quickly, but now it often shows \u201ccaptains busy/not available,\u201d or drivers cancel the ride. Especially while returning home from office, I sometimes wait too long and reach home very late. This is extremely annoying and frustrating. Please fix the availability issue urgently.",
+        "vaf_app_quality_ads_presence": 3,
+        "vaf_app_quality_usability": 1,
+        "vaf_app_quality_stability": 3
+    },
+    {
+        "id": "074cc589-f541-453c-b59d-10797eb5ee19",
+        "date": "2026-08-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a"
+    },
+    {
+        "id": "e18143d7-bb1f-4717-807e-dc629874b066",
+        "date": "2026-08-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "b816ddf5-450a-4899-a569-07f654ce46d9",
+        "date": "2026-08-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "aa6a9064-7272-4d27-a20c-2674daa5a820",
+        "date": "2026-08-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "After few month, I forget and try this app again. Just to be recalled that it is still sending advertising notifications. Even after 'noted your concern' 2 years ago, nothing changed. Need to uninstall again.",
+        "vaf_app_quality_visual_appeal": 2,
+        "vaf_app_quality_ads_presence": 1,
+        "vaf_app_quality_stability": 3
+    },
+    {
+        "id": "a64c91a2-c22e-4edd-9bf7-ecd28771097a",
+        "date": "2026-08-18",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Too many notifications. No way to turn it down."
+    },
+    {
+        "id": "88b49281-4c11-4117-8461-23cf6f7f179a",
+        "date": "2026-08-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8264dcdf-fe63-4a8f-9f25-abed169008cb",
+        "date": "2026-08-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Need to improve"
+    },
+    {
+        "id": "7daf48fd-0f74-45f1-b80c-6592372f5991",
+        "date": "2026-08-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best apps for travel and price is also less as per others"
+    },
+    {
+        "id": "7b9a36e0-a763-4157-a312-8d9f757ccb7a",
+        "date": "2026-08-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Use only for weekend travel.. don't try booking during office hours, it will be a waste of time."
+    },
+    {
+        "id": "7b11d22e-fb07-483a-9f81-f96da769a3c6",
+        "date": "2026-08-18",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "too expensive then uber"
+    },
+    {
+        "id": "38ec97c2-ed19-4e36-86b4-b56a96cdb226",
+        "date": "2026-08-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2aea0dc6-e240-4da3-9f6c-4afa3255391d",
+        "date": "2026-08-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "don't book a metro ticket bad app"
+    },
+    {
+        "id": "296a1ec6-671b-4448-a876-f24c58ca504e",
+        "date": "2026-08-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good one"
+    },
+    {
+        "id": "0b23a586-1f6a-4a16-8ca8-12e88ee7d585",
+        "date": "2026-08-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "one of the best service app"
+    },
+    {
+        "id": "ee18b52e-07e2-414c-8ca4-f6a38868d0cd",
+        "date": "2026-08-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super drop"
+    },
+    {
+        "id": "d2df110e-0246-4c3d-8f71-a503008a73a1",
+        "date": "2026-08-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very costly compared to Uber."
+    },
+    {
+        "id": "cea7d692-a427-47ff-abea-d27a6ac5a677",
+        "date": "2026-08-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "this is for the second time, the driver are very unprofessional and no sense of humanity. my grand father and father waited for 30 minutes in main road waiting for this driver... while he passed in front of them itself...niether canceled the ride nor intimated us... when called he mentioned he's coming on the way. even when mentioned we need to go to hospital"
+    },
+    {
+        "id": "ca847495-f5a1-4a50-b211-0aa4487f73dd",
+        "date": "2026-08-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Service and Very Useful"
+    },
+    {
+        "id": "80187833-9918-4d7b-ae2e-dffc60db567b",
+        "date": "2026-08-17",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "inspite of reinstalling, the app is not loading . keeps trying to load ride booking and doesn't allow to go to home screen. not able to load help either. ended using another app for ride booking"
+    },
+    {
+        "id": "62c5eb61-eca5-4dea-9aaf-5a20dfefe261",
+        "date": "2026-08-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service."
+    },
+    {
+        "id": "432c2957-5933-47d7-96df-1372b0808aa9",
+        "date": "2026-08-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice wife"
+    },
+    {
+        "id": "3f1dfe43-5ebb-4d2b-9605-4a43ec8b0c00",
+        "date": "2026-08-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's good time saver"
+    },
+    {
+        "id": "35c02538-d083-4689-b32e-d3f353393826",
+        "date": "2026-08-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "correct price most of the time and polite drivers,"
+    },
+    {
+        "id": "32db7ca2-8359-4c52-b4a5-b737fa327dad",
+        "date": "2026-08-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "034a3dc2-9838-42a8-887d-33f10605b69b",
+        "date": "2026-08-17",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good but the price is a little hairy"
+    },
+    {
         "id": "fbcf1728-a5b3-4be2-99c7-d303f942c1a8",
         "date": "2026-08-12",
         "score": 5,
