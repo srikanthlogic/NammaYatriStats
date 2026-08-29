@@ -1,5 +1,581 @@
 [
     {
+        "id": "35975310-74e9-48dd-b18c-6bdb4bd2f739",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "yeah sure"
+    },
+    {
+        "id": "fad3da1a-99bd-4bbf-848e-16573b3f07e1",
+        "date": "2026-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "\ud83d\udc4e"
+    },
+    {
+        "id": "f816b631-d98a-466f-b0a0-3eab43b3b573",
+        "date": "2026-08-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good",
+        "vaf_app_quality_performance": 1,
+        "vaf_app_quality_stability": 2
+    },
+    {
+        "id": "e1861ed1-4ba9-4f0d-a7ae-fbd0fb04e7ac",
+        "date": "2026-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Timepass drivers and the worst service. They cancel the ride as soon as they reach the pickup location, making us wait for 15\u201320 minutes. Imagine not being able to find an auto or any other ride in Basavanagudi after that."
+    },
+    {
+        "id": "cd857384-29b9-4d73-8c5d-a9acf4dd94ae",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b776be92-0e41-43ad-bfcb-0a291ca526bd",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "acd5a922-a4ed-4440-9ebb-32d23d8f02a9",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8dd5a873-71f9-4e68-93ff-b13f81a96deb",
+        "date": "2026-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "more bugs than features"
+    },
+    {
+        "id": "85e96e25-5d82-4a20-93c7-76b3a4f7142b",
+        "date": "2026-08-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6791d540-3cf9-44b5-a2e3-193eef12f280",
+        "date": "2026-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Auto driver will not pickup the ride in peak hours like school time, office time, for rs 51 ride rs 55 tips are suggested in the app. Totally passenger must suffer. No more motto of customer are important, making money is important."
+    },
+    {
+        "id": "5a0d2ec0-6beb-4d96-8b84-b5ce972a728e",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "4dd46c22-6758-4298-a361-5751e9522c09",
+        "date": "2026-08-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "drop off not updated"
+    },
+    {
+        "id": "3d00e87a-823e-44a9-8776-fbcb783a9348",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1bf346eb-7507-4e73-b442-2b5e933eeb91",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very much competitive prices. service is very Good."
+    },
+    {
+        "id": "18be80ac-3d9d-43b2-b2b5-78e7e01d418a",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very helpful job"
+    },
+    {
+        "id": "0f7223e9-99e5-4f81-896e-e27fcbbea6fb",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "eb6201aa-3700-4852-8766-03d08f369f8f",
+        "date": "2026-08-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "polite driver"
+    },
+    {
+        "id": "b5f2888b-8955-4b02-b734-45b6833bdf3b",
+        "date": "2026-08-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "af8b8691-1642-45e3-abc6-0bc12a4804ca",
+        "date": "2026-08-26",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "This app only works when we pay them with tips and even though the captains are available they do not accept the ride..hope they upgrade all these and make people have a quick and easy ride.",
+        "vaf_app_quality_usability": 1,
+        "vaf_app_quality_ads_frequency": 1,
+        "vaf_app_quality_visual_appeal": 2
+    },
+    {
+        "id": "ae06aee1-46ab-4b16-946a-ab0f155f730b",
+        "date": "2026-08-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a4322796-b006-4a34-baf5-a29907c317a7",
+        "date": "2026-08-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "one of the worst ride experiences while coming from airport. nothing short of scamming people. drivers are extremely rude and cheats. they switch on the blower without the AC and claim AC is on. I realised it's better to go with Uber or Quikride which are trustworthy."
+    },
+    {
+        "id": "9c343e00-13a0-4bd0-b614-3e42483636e4",
+        "date": "2026-08-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The most of the drivers before the reaching location only they put in that they have arrived and the waiting time starts so waiting charges extra we have to pay but in reality that driver will not be arrived even though they know the location properly.. Why should we pay extra money? When it is not done by us ... I hope that this issue be solved as this has happened with me many times..",
+        "vaf_app_quality_ads_presence": 2,
+        "vaf_app_quality_battery_efficiency": 2
+    },
+    {
+        "id": "9418e46a-dbe7-4f68-aa39-619de668e65c",
+        "date": "2026-08-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice ride"
+    },
+    {
+        "id": "66539589-5ca2-4aa2-a06a-32f138cf3b39",
+        "date": "2026-08-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ye pretty good, sponsor me next time BTW"
+    },
+    {
+        "id": "606a8af4-eca8-4e17-83f0-f4254db99bf3",
+        "date": "2026-08-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you"
+    },
+    {
+        "id": "4f8316b9-b18b-4d08-a479-ff87971958f9",
+        "date": "2026-08-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good experience for a first time user."
+    },
+    {
+        "id": "3539f953-c586-4943-b915-de287e50046e",
+        "date": "2026-08-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "09977b5f-ffc0-452c-9f84-51aaa9721b98",
+        "date": "2026-08-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Random price increase upto 1.5 to 2X. No vehicle available without extra payment, and the App is promoting that behaviour"
+    },
+    {
+        "id": "ebd754e2-10cb-434f-a336-c2d010270f03",
+        "date": "2026-08-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "after confirming the booking cab driver always demanding extra cash but there's no option to raise the complainant or namma yatri not willing to resolve the issue."
+    },
+    {
+        "id": "e543b54d-efc9-4045-ab84-df995111e8af",
+        "date": "2026-08-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Bangalore no 1 Auto, Taxi, Cab Service. Most importantly all the drivers are very professional. Thank you Namma Yatri. it's far better than rapido and uber app."
+    },
+    {
+        "id": "e2f9ae0d-18c4-4cff-a2f8-0d18d6098fe4",
+        "date": "2026-08-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "c6e10881-7103-487d-8937-da7edee88565",
+        "date": "2026-08-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u2764\ufe0f"
+    },
+    {
+        "id": "b43becbf-50a0-4f0e-9f76-17395bca5d1c",
+        "date": "2026-08-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "aea0014d-c477-48da-9852-607e7294e987",
+        "date": "2026-08-25",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "8a7989e8-6125-48a5-99e3-6f134eed96c0",
+        "date": "2026-08-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the app it's self ask extra tip to boost the driver, then if u not pay it's keep buffering,money bug apps nowadays"
+    },
+    {
+        "id": "57c63551-9db2-43f1-ba66-656f2b8a876f",
+        "date": "2026-08-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "no drivers r available"
+    },
+    {
+        "id": "29fb960d-c1d0-48c6-bf40-e9f358b814d6",
+        "date": "2026-08-25",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "fcf7de66-2c54-45ff-9e1c-0c0c9d752a12",
+        "date": "2026-08-24",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "book on time"
+    },
+    {
+        "id": "dbef57d3-2e5a-4259-a518-446b84973d0b",
+        "date": "2026-08-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d04f720f-18ac-4dc6-abf8-90f8603ef936",
+        "date": "2026-08-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very unprofessional drivers hired by Namma yatri .....not recommended at all...better go with well established uber. they always charge for toll fare from airport but never take proper highway route crossing the toll....very unethical. Also the Namma yatri customer care chat and call support is just a dummy feature",
+        "vaf_app_quality_usability": 2
+    },
+    {
+        "id": "c3e2f11f-264a-4e37-a1a2-1b4047e4b06b",
+        "date": "2026-08-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "abc6be56-ff56-4d63-adab-738f5ce95c12",
+        "date": "2026-08-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "a8c55bca-5884-4812-ad2a-8ae772c0bf11",
+        "date": "2026-08-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "when we add a drop location, automatically pickup also taking drop"
+    },
+    {
+        "id": "89b5aebb-c25a-41d0-a15d-3f15bf0698a2",
+        "date": "2026-08-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service \ud83d\udc4d"
+    },
+    {
+        "id": "77942a3e-cd68-4d8b-8075-1c6477b8a6cf",
+        "date": "2026-08-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "one of wast full app ever I seen . uselees"
+    },
+    {
+        "id": "6c500372-02c7-4a6c-b5df-a795a8c4c5ef",
+        "date": "2026-08-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "hi team... at peak hours n when it is raining why can't we book an auto?"
+    },
+    {
+        "id": "52e42c3c-7cd3-4ec1-9da4-74d8b12a03a2",
+        "date": "2026-08-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "23868034-d109-4a82-b8c4-b029d55eae2a",
+        "date": "2026-08-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "143365ea-7a44-46f0-b3ef-68b7950765f8",
+        "date": "2026-08-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0f923e55-8c35-4765-9de9-09494e1919ea",
+        "date": "2026-08-24",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "fc771337-055a-4998-b472-fb71dd33b3d5",
+        "date": "2026-08-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "waste app costumer service not call connecting my money was loss"
+    },
+    {
+        "id": "dac7d985-97b9-4735-9fab-49d4cc4d021a",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "d32331de-23e8-42e1-996f-9af11ab20e98",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "c6cd8630-d207-4723-9485-46a21ea956b6",
+        "date": "2026-08-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "price always over estimates , rides are cheaper and faster in rapido."
+    },
+    {
+        "id": "b17e9fca-76ec-49e0-8dbc-b992fde887a0",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good\ud83d\udc4d"
+    },
+    {
+        "id": "b0c7948e-3529-4de2-b806-afbfca3e9756",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "worth ride compared to other companies. Namma Yatri worth"
+    },
+    {
+        "id": "9eac9f16-0b2e-4f41-8c98-d5dc9b5062eb",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "997821eb-a913-4093-92b6-95899e3e3639",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "this app so best app and fast service"
+    },
+    {
+        "id": "97d87796-f9f6-41e3-9170-e42c566e693c",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "amazing how we can call our auto drivers even after the ride"
+    },
+    {
+        "id": "8587ecda-0695-429a-a295-d3600cf95405",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best ride in this app"
+    },
+    {
+        "id": "83f6783d-ed08-4d95-ba12-133e53951f23",
+        "date": "2026-08-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "7f65ea8d-d6e7-4ffc-95f3-92f75dae7f39",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "wel service"
+    },
+    {
+        "id": "6a6f4435-8fb9-4878-a737-4020ae39a40b",
+        "date": "2026-08-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app they show less charges and even the airport booth people for there company says that price won't change and certainly they change the price and charge toll and parking fee and idk what sorts of fee.. there helpline doesn't work. I payed soo much higher than it showed before . they make fool of you. don't re lay on this app"
+    },
+    {
+        "id": "66fbdc75-66cb-4fbc-b88d-8f7f827a9717",
+        "date": "2026-08-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "please explain the legality of priority auto? according to the government autos cannot charge more than the tariff amount"
+    },
+    {
+        "id": "5ad85f17-b8ad-4e82-a858-1c3f48fe5a17",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good\ud83d\udcaf"
+    },
+    {
+        "id": "41da7d70-c166-434e-aa33-6fd956accb2c",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very fare price and Good compare to ola uber"
+    },
+    {
+        "id": "36038d14-5865-4dea-bf2f-d2565a9f2a68",
+        "date": "2026-08-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "address properly not showing not able to reach our desiganation both pickup and drop. pls rectify this. it's request."
+    },
+    {
+        "id": "25af8d64-3536-4d9e-923e-1d63561f3407",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "23b38343-95ea-4e87-b073-8827c28d20f0",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "smooth drive"
+    },
+    {
+        "id": "0acf8348-f783-4ccd-b656-cdcbb9a2499f",
+        "date": "2026-08-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "On time"
+    },
+    {
+        "id": "0046aec5-4d86-448c-97e7-d8c21f1e50ef",
+        "date": "2026-08-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "no rides given in bangalore even after adding tips. all my money is gone here itself. + the autos refuse to cancel even when they are going in the other direction and have no intention of coming and picking us up. autos are the worst"
+    },
+    {
         "id": "f1ed342a-f69d-4666-8e4f-5f6193952c87",
         "date": "2026-08-22",
         "score": 3,
