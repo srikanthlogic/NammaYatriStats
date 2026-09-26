@@ -1,4 +1,6 @@
 {
+    "vaf_app_quality_ads_frequency": 1,
+    "vaf_app_quality_battery_efficiency": 1,
     "vaf_never_display_ads_experience": 40,
     "vaf_never_display_ease_of_use": 42,
     "vaf_never_display_disruptive_ads": 1,
